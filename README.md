@@ -1,6 +1,6 @@
 # 🧠 What my AI models say about me
 
-> 🔊 [**Listen to this page**](opinions.mp3) *(AI-generated voice)*
+> 🔊 [**Listen to this page**](https://raw.githubusercontent.com/andrestubbe/andrestubbe/main/opinions.mp3) *(AI-generated voice)*
 
 <br>
 
