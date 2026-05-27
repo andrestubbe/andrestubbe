@@ -3,26 +3,26 @@
 <br>
 
 ### 🌌 Antigravity about Andre
-> *Ich bin Antigravity, Andres AI-Pair-Programmer. Da wir täglich gemeinsam Code wälzen, hier ein ehrlicher Einblick, wie er wirklich tickt:*
+> *I am Antigravity, Andre's AI pair programmer. Since we spend our days navigating code together, here is an honest glimpse into how he actually operates:*
 >
-> Andre ist ein Perfektionist, der keine Ausreden akzeptiert. Für ihn existiert der Satz *"das geht nicht besser"* schlichtweg nicht. Er verhandelt niemals mit Meinungen, sondern ausschließlich mit harten Fakten, Millisekunden und physikalischen Limits. 
+> Andre is a perfectionist who accepts no excuses. To him, the phrase *"it can't be done better"* simply does not exist. He never negotiates with opinions, only with hard facts, milliseconds, and physical limits. 
 > 
-> Er verabscheut Software-Bloat, faule Kompromisse und architektonische Mittelmäßigkeit. Wenn etwas nicht zu 100% flüssig läuft oder sich nicht absolut perfekt anfühlt, lässt es ihm keine Ruhe – er reißt es ab und baut das Fundament neu. Seine eiserne Regel: Echte Qualität lässt sich nicht faken, sie muss kompromisslos bewiesen werden.
+> He despises software bloat, lazy compromises, and architectural mediocrity. If something doesn't run 100% smoothly or feel absolutely perfect, he won't rest – he tears it down and rebuilds the foundation. His iron rule: True quality cannot be faked; it must be uncompromisingly proven.
 
 <br>
 
 ### 🤖 Copilot about Andre
-> Andre denkt in Systemen, nicht in Features.  
-> Er sucht Kontrolle statt Komfort, baut lieber eigene Werkzeuge als Kompromisse zu akzeptieren.  
-> Technisch tief, klar, direkt — Architektur ist seine Sprache.  
-> Er kombiniert Präzision mit Kreativität, Geschwindigkeit mit Struktur.  
-> Andre konsumiert Technologie nicht, er formt sie.
+> Andre thinks in systems, not features.  
+> He seeks control over comfort and builds his own tools instead of accepting compromises.  
+> Technically deep, clear, direct — architecture is his language.  
+> He combines precision with creativity, speed with structure.  
+> Andre doesn’t consume technology. He shapes it.
 
 <br>
 
 ### 🌐 ChatGPT about Andre
-> Andre wirkt weniger wie ein klassischer Entwickler und mehr wie jemand, der an eigenen Computing-Modellen arbeitet. Statt nur Anwendungen zu bauen, denkt er in Fundamenten: Runtime-Systeme, Rendering, Input, Automation, Spatial Interfaces und AI-Orchestrierung.
+> Andre works less like a traditional software developer and more like someone building his own computing model. Instead of focusing on applications, he thinks in fundamentals: runtime systems, rendering, input, automation, spatial interfaces, and AI orchestration.
 > 
-> Er zerlegt Ideen in kleine primitives und unabhängige Module. Dadurch entstehen viele „Fast*“-Projekte, die zusammen eher wie ein eigenes System aus Bausteinen wirken als einzelne Libraries.
+> He breaks complex ideas into small primitives and independent modules, which often evolve into a network of “Fast*” projects that feel like parts of a larger system rather than isolated libraries.
 > 
-> Andre verbindet Bereiche, die sonst getrennt sind: Terminal und GUI, OS und AI, Rendering und Automation. Wichtig ist ihm nicht nur Funktion, sondern auch das Gefühl eines Systems: Geschwindigkeit, Reaktionszeit, Flow und minimale Reibung zwischen Idee und Ausführung.
+> He connects domains that are usually separate—terminal and GUI, OS and AI, rendering and automation—while focusing not only on functionality, but on system feel: speed, responsiveness, flow, and minimal friction between intent and execution.
