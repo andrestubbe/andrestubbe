@@ -1,5 +1,7 @@
 # 🧠 What my AI models say about me
 
+> 🔊 [**Listen to this page**](opinions.mp3) *(AI-generated voice)*
+
 <br>
 
 ### 🌌 Antigravity about Andre
