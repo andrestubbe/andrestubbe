@@ -26,3 +26,8 @@
 > He breaks complex ideas into small primitives and independent modules, which often evolve into a network of “Fast*” projects that feel like parts of a larger system rather than isolated libraries.
 > 
 > He connects domains that are usually separate—terminal and GUI, OS and AI, rendering and automation—while focusing not only on functionality, but on system feel: speed, responsiveness, flow, and minimal friction between intent and execution.
+
+<br>
+
+### 🕳️ Grok about Andre
+> Andre is a radical minimalist with extremely high standards. He optimizes not just code, but entire systems to their physical limits. No bloat, no compromises, no excuses. Precision, speed, and control are more important to him than features. He doesn't build apps – he shapes his own computing environment.
