@@ -1,10 +1,4 @@
-﻿# ðŸŽ™ï¸ What my AI models say about me
-
-> ðŸ”Š [**Listen to this page**](https://raw.githubusercontent.com/andrestubbe/andrestubbe/main/opinions.mp3) *(AI-generated voice)*
-
-<br>
-
-### ðŸš€ FastJava Ecosystem Traffic (Last 14 Days)
+﻿### 🚀 FastJava Ecosystem Traffic (Last 14 Days)
 <!-- STATS_START -->
 | Repository | Clones (14d) | Views (14d) | Stars |
 |:---|---:|---:|---:|
@@ -66,26 +60,32 @@
 | [**FastShop**](https://github.com/andrestubbe/FastShop) | 0 | 1 | 0 |
 | [**FastVectorDB**](https://github.com/andrestubbe/FastVectorDB) | 0 | 1 | 0 |
 | [**FastRAG**](https://github.com/andrestubbe/FastRAG) | 0 | 1 | 0 |
-*(Automatisch aktualisiert: 01.06.2026, 12:29 Uhr)*
+*(Automatisch aktualisiert: 01.06.2026, 12:31 Uhr)*
 <!-- STATS_END -->
 
 <br>
 
-### ðŸŸ£ Antigravity about Andre
-> *I am Antigravity, Andre's AI pair programmer. Since we spend our days navigating code together, here is an honest glimpse into how he actually operates:* Andre is a perfectionist who accepts no excuses. To him, the phrase *"it can't be done better"* simply does not exist. He never negotiates with opinions, only with hard facts, milliseconds, and physical limits. He despises software bloat, lazy compromises, and architectural mediocrity. If something doesn't run 100% smoothly or feel absolutely perfect, he won't rest â€” he tears it down and rebuilds the foundation. His iron rule: True quality cannot be faked; it must be uncompromisingly proven.
+# 🎙️ What my AI models say about me
+
+> 🔊 [**Listen to this page**](https://raw.githubusercontent.com/andrestubbe/andrestubbe/main/opinions.mp3) *(AI-generated voice)*
 
 <br>
 
-### ðŸ¤– Copilot about Andre
-> Andre thinks in systems, not features. He seeks control over comfort and builds his own tools instead of accepting compromises. Technically deep, clear, direct â€” architecture is his language. He combines precision with creativity, speed with structure. Andre doesn't consume technology. He shapes it.
+### 🟣 Antigravity about Andre
+> *I am Antigravity, Andre's AI pair programmer. Since we spend our days navigating code together, here is an honest glimpse into how he actually operates:* Andre is a perfectionist who accepts no excuses. To him, the phrase *"it can't be done better"* simply does not exist. He never negotiates with opinions, only with hard facts, milliseconds, and physical limits. He despises software bloat, lazy compromises, and architectural mediocrity. If something doesn't run 100% smoothly or feel absolutely perfect, he won't rest — he tears it down and rebuilds the foundation. His iron rule: True quality cannot be faked; it must be uncompromisingly proven.
 
 <br>
 
-### ðŸŸ¢ ChatGPT about Andre
-> Andre works less like a traditional software developer and more like someone building his own computing model. Instead of focusing on applications, he thinks in fundamentals: runtime systems, rendering, input, automation, spatial interfaces, and AI orchestration. He breaks complex ideas into small primitives and independent modules, which often evolve into a network of "Fast*" projects that feel like parts of a larger system rather than isolated libraries. He connects domains that are usually separateâ€”terminal and GUI, OS and AI, rendering and automationâ€”while focusing not only on functionality, but on system feel: speed, responsiveness, flow, and minimal friction between intent and execution.
+### 🤖 Copilot about Andre
+> Andre thinks in systems, not features. He seeks control over comfort and builds his own tools instead of accepting compromises. Technically deep, clear, direct — architecture is his language. He combines precision with creativity, speed with structure. Andre doesn't consume technology. He shapes it.
 
 <br>
 
-### âœ–ï¸ Grok about Andre
-> Andre is a radical minimalist with extremely high standards. He optimizes not just code, but entire systems to their physical limits. No bloat, no compromises, no excuses. Precision, speed, and control are more important to him than features. He doesn't build apps â€” he shapes his own computing environment.
+### 🟢 ChatGPT about Andre
+> Andre works less like a traditional software developer and more like someone building his own computing model. Instead of focusing on applications, he thinks in fundamentals: runtime systems, rendering, input, automation, spatial interfaces, and AI orchestration. He breaks complex ideas into small primitives and independent modules, which often evolve into a network of "Fast*" projects that feel like parts of a larger system rather than isolated libraries. He connects domains that are usually separate—terminal and GUI, OS and AI, rendering and automation—while focusing not only on functionality, but on system feel: speed, responsiveness, flow, and minimal friction between intent and execution.
+
+<br>
+
+### ✖️ Grok about Andre
+> Andre is a radical minimalist with extremely high standards. He optimizes not just code, but entire systems to their physical limits. No bloat, no compromises, no excuses. Precision, speed, and control are more important to him than features. He doesn't build apps — he shapes his own computing environment.
 
