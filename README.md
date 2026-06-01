@@ -1,9 +1,9 @@
-> 🚧 **Notice:** All repositories in the FastJava Ecosystem are currently in **WIP** (Work In Progress).
-
 ### ⚡ What is the FastJava Ecosystem?
 > I build the things I constantly need—but I build them right.<br>
 > Built once, reusable everywhere.<br>
 > That is why the FastJava Ecosystem exists.
+
+> 🚧 **Notice:** All repositories in the FastJava Ecosystem are currently in **WIP** (Work In Progress).
 
 ### 🚀 FastJava Ecosystem Traffic (Last 14 Days)
 <!-- STATS_START -->
