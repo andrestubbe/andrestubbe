@@ -1,7 +1,8 @@
-﻿### ⚡ What is the FastJava Ecosystem?
+### ⚡ What is the FastJava Ecosystem?
 > I build the things I constantly need—but I build them right.<br>
-> Built once, reusable everywhere.<br>
-> That is why the FastJava Ecosystem exists.
+> I used to build them again and again, dreaming of doing it one last time.<br>
+> Built once, reusable everywhere. That is why the FastJava Ecosystem exists.<br>
+> It will take time to condense my entire timeline of past work into this unified library.
 
 > 🚧 **Notice:** All repositories in the FastJava Ecosystem are currently in **WIP** (Work In Progress).
 
