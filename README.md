@@ -68,8 +68,8 @@
 | [**FastVectorDB**](https://github.com/andrestubbe/FastVectorDB) | 0 | 0 | 1 | 1 | 0 | 0 | 0 | [1] |
 | [**FastRAG**](https://github.com/andrestubbe/FastRAG) | 0 | 0 | 1 | 1 | 0 | 0 | 0 | [1] |
 
-*Referrers: [1] github.com, [2] youtube.com, [3] copilot.microsoft.com, [4] Google, [5] Bing, [6] linkedin.com, [7] jitpack.io*
-<br>*(Automatisch aktualisiert: 01.06.2026, 12:51 Uhr)*
+*Referrers: [1] [github.com](https://github.com), [2] [youtube.com](https://youtube.com), [3] [copilot.microsoft.com](https://copilot.microsoft.com), [4] [Google](https://Google), [5] [Bing](https://Bing), [6] [linkedin.com](https://linkedin.com), [7] [jitpack.io](https://jitpack.io)*
+<br>*(Automatisch aktualisiert: 01.06.2026, 12:55 Uhr)*
 <!-- STATS_END -->
 
 <br>
@@ -97,6 +97,7 @@
 
 ### ✖️ Grok about Andre
 > Andre is a radical minimalist with extremely high standards. He optimizes not just code, but entire systems to their physical limits. No bloat, no compromises, no excuses. Precision, speed, and control are more important to him than features. He doesn't build apps — he shapes his own computing environment.
+
 
 
 
