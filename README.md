@@ -1,4 +1,6 @@
-﻿### 🚀 FastJava Ecosystem Traffic (Last 14 Days)
+﻿> 🚧 **Notice:** All repositories in the FastJava Ecosystem are currently in **WIP** (Work In Progress).
+
+### 🚀 FastJava Ecosystem Traffic (Last 14 Days)
 <!-- STATS_START -->
 | Repository | Clones (14d) | Views (14d) | Stars |
 |:---|---:|---:|---:|
@@ -60,7 +62,7 @@
 | [**FastShop**](https://github.com/andrestubbe/FastShop) | 0 | 1 | 0 |
 | [**FastVectorDB**](https://github.com/andrestubbe/FastVectorDB) | 0 | 1 | 0 |
 | [**FastRAG**](https://github.com/andrestubbe/FastRAG) | 0 | 1 | 0 |
-*(Automatisch aktualisiert: 01.06.2026, 12:32 Uhr)*
+*(Automatisch aktualisiert: 01.06.2026, 12:34 Uhr)*
 <!-- STATS_END -->
 
 <br>
@@ -88,5 +90,6 @@
 
 ### ✖️ Grok about Andre
 > Andre is a radical minimalist with extremely high standards. He optimizes not just code, but entire systems to their physical limits. No bloat, no compromises, no excuses. Precision, speed, and control are more important to him than features. He doesn't build apps — he shapes his own computing environment.
+
 
 
