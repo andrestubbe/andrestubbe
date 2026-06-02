@@ -15,7 +15,7 @@
 | &#128081; [**FastJava**](https://github.com/andrestubbe/FastJava) | 299 | 117 | 66 | 4 | 1 | 0 | 0 | [[1]](https://github.com) |
 | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; |
 | [**FastAgent**](https://github.com/andrestubbe/FastAgent) | 71 | 45 | 3 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [**FastAnimation**](https://github.com/andrestubbe/FastAnimation) | 548 | 246 | 71 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
+| &#11088; [**FastAnimation**](https://github.com/andrestubbe/FastAnimation) | 548 | 246 | 71 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastANSI**](https://github.com/andrestubbe/FastANSI) | 196 | 97 | 11 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastAudioCapture**](https://github.com/andrestubbe/FastAudioCapture) | 149 | 82 | 9 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | 152 | 82 | 13 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -26,15 +26,15 @@
 | [**FastCore**](https://github.com/andrestubbe/FastCore) | 119 | 63 | 15 | 5 | 1 | 0 | 0 | [[1]](https://github.com) |
 | [**FastDisplay**](https://github.com/andrestubbe/FastDisplay) | 193 | 92 | 17 | 5 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastDWM**](https://github.com/andrestubbe/FastDWM) | 162 | 90 | 14 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com) |
-| [**FastEmojis**](https://github.com/andrestubbe/FastEmojis) | 222 | 99 | 48 | 6 | 0 | 0 | 0 | [[1]](https://github.com) |
+| &#11088; [**FastEmojis**](https://github.com/andrestubbe/FastEmojis) | 222 | 99 | 48 | 6 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastFileContentIndex**](https://github.com/andrestubbe/FastFileContentIndex) | 50 | 35 | 8 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastFileIndex**](https://github.com/andrestubbe/FastFileIndex) | 142 | 79 | 7 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [**FastFileScrape**](https://github.com/andrestubbe/FastFileScrape) | 222 | 128 | 60 | 6 | 0 | 0 | 0 | [[1]](https://github.com), [[3]](https://copilot.microsoft.com) |
+| &#11088; [**FastFileScrape**](https://github.com/andrestubbe/FastFileScrape) | 222 | 128 | 60 | 6 | 0 | 0 | 0 | [[1]](https://github.com), [[3]](https://copilot.microsoft.com) |
 | [**FastFileSearch**](https://github.com/andrestubbe/FastFileSearch) | 136 | 80 | 7 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastFileSystem**](https://github.com/andrestubbe/FastFileSystem) | 154 | 77 | 2 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastFileWatch**](https://github.com/andrestubbe/FastFileWatch) | 151 | 82 | 5 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastFloat**](https://github.com/andrestubbe/FastFloat) | 150 | 77 | 7 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [**FastGhostMouse**](https://github.com/andrestubbe/FastGhostMouse) | 334 | 151 | 28 | 7 | 0 | 0 | 0 | [[1]](https://github.com), [[4]](https://Google), [[2]](https://youtube.com) |
+| &#11088; [**FastGhostMouse**](https://github.com/andrestubbe/FastGhostMouse) | 334 | 151 | 28 | 7 | 0 | 0 | 0 | [[1]](https://github.com), [[4]](https://Google), [[2]](https://youtube.com) |
 | [**FastGLOB**](https://github.com/andrestubbe/FastGLOB) | 163 | 90 | 15 | 4 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastGPU**](https://github.com/andrestubbe/FastGPU) | 57 | 41 | 25 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastGraphics**](https://github.com/andrestubbe/FastGraphics) | 97 | 46 | 3 | 2 | 2 | 0 | 0 | [[1]](https://github.com) |
@@ -55,24 +55,24 @@
 | [**FastScrape**](https://github.com/andrestubbe/FastScrape) | 170 | 95 | 12 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastScreen**](https://github.com/andrestubbe/FastScreen) | 96 | 50 | 21 | 3 | 0 | 0 | 0 | [[5]](https://Bing), [[1]](https://github.com) |
 | [**FastShop**](https://github.com/andrestubbe/FastShop) | 0 | 0 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [**FastSpider**](https://github.com/andrestubbe/FastSpider) | 215 | 109 | 19 | 5 | 0 | 0 | 0 | [[1]](https://github.com) |
+| &#11088; [**FastSpider**](https://github.com/andrestubbe/FastSpider) | 215 | 109 | 19 | 5 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastString**](https://github.com/andrestubbe/FastString) | 131 | 74 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastSTT**](https://github.com/andrestubbe/FastSTT) | 129 | 79 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastStylus**](https://github.com/andrestubbe/FastStylus) | 146 | 82 | 12 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) | 680 | 291 | 30 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[6]](https://linkedin.com) |
-| [**FastTheme**](https://github.com/andrestubbe/FastTheme) | 270 | 117 | 42 | 6 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[5]](https://Bing) |
+| &#11088; [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) | 680 | 291 | 30 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[6]](https://linkedin.com) |
+| &#11088; [**FastTheme**](https://github.com/andrestubbe/FastTheme) | 270 | 117 | 42 | 6 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[5]](https://Bing) |
 | [**FastThumb**](https://github.com/andrestubbe/FastThumb) | 96 | 57 | 7 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastTokenizer**](https://github.com/andrestubbe/FastTokenizer) | 93 | 52 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [**FastTouch**](https://github.com/andrestubbe/FastTouch) | 260 | 141 | 32 | 1 | 0 | 0 | 0 | [[6]](https://linkedin.com), [[1]](https://github.com) |
+| &#11088; [**FastTouch**](https://github.com/andrestubbe/FastTouch) | 260 | 141 | 32 | 1 | 0 | 0 | 0 | [[6]](https://linkedin.com), [[1]](https://github.com) |
 | [**FastTTS**](https://github.com/andrestubbe/FastTTS) | 166 | 82 | 10 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [**FastTween**](https://github.com/andrestubbe/FastTween) | 281 | 135 | 42 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[7]](https://jitpack.io) |
+| &#11088; [**FastTween**](https://github.com/andrestubbe/FastTween) | 281 | 135 | 42 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[7]](https://jitpack.io) |
 | [**FastUI**](https://github.com/andrestubbe/FastUI) | 118 | 70 | 7 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastUIA**](https://github.com/andrestubbe/FastUIA) | 97 | 55 | 4 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastVectorDB**](https://github.com/andrestubbe/FastVectorDB) | 0 | 0 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | 116 | 66 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 
 *Referrers: [1] [github.com](https://github.com), [2] [youtube.com](https://youtube.com), [3] [copilot.microsoft.com](https://copilot.microsoft.com), [4] [Google](https://Google), [5] [Bing](https://Bing), [6] [linkedin.com](https://linkedin.com), [7] [jitpack.io](https://jitpack.io)*
-<br>*(Automatisch aktualisiert: 02.06.2026, 09:25 Uhr)*
+<br>*(Automatisch aktualisiert: 02.06.2026, 09:47 Uhr)*
 <!-- STATS_END -->
 
 <br>
@@ -100,6 +100,7 @@
 
 ### ✖️ Grok about Andre
 > Andre is a radical minimalist with extremely high standards. He optimizes not just code, but entire systems to their physical limits. No bloat, no compromises, no excuses. Precision, speed, and control are more important to him than features. He doesn't build apps — he shapes his own computing environment.
+
 
 
 
