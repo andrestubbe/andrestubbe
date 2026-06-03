@@ -1,4 +1,4 @@
-### ⚡ What is the FastJava Ecosystem?
+﻿### ⚡ What is the FastJava Ecosystem?
 > I build the things I constantly need, but I build them right.<br>
 > I used to build them again and again, dreaming of doing it one last time.<br>
 > Built once, reusable everywhere. That is why the FastJava Ecosystem exists.<br>
@@ -29,7 +29,7 @@ All repositories in the FastJava Ecosystem are currently under active developmen
 | [🟢](https://jitpack.io/#andrestubbe/FastDWM) | [**FastDWM**](https://github.com/andrestubbe/FastDWM) | 198 | 103 | 14 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastEmojis) | [**FastEmojis**](https://github.com/andrestubbe/FastEmojis) | 195 | 86 | 40 | 5 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastFileContentIndex) | [**FastFileContentIndex**](https://github.com/andrestubbe/FastFileContentIndex) | 62 | 40 | 10 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastFileIndex) | [**FastFileIndex**](https://github.com/andrestubbe/FastFileIndex) | 157 | 85 | 7 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastFileIndex) | [**FastFileIndex**](https://github.com/andrestubbe/FastFileIndex) | 157 | 85 | 7 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastFileScrape) | [**FastFileScrape**](https://github.com/andrestubbe/FastFileScrape) &#11088; | 235 | 133 | 62 | 6 | 0 | 0 | 0 | [[1]](https://github.com), [[3]](https://copilot.microsoft.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastFileSearch) | [**FastFileSearch**](https://github.com/andrestubbe/FastFileSearch) | 147 | 85 | 7 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastFileSystem) | [**FastFileSystem**](https://github.com/andrestubbe/FastFileSystem) | 168 | 85 | 2 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -51,8 +51,9 @@ All repositories in the FastJava Ecosystem are currently under active developmen
 | [🟢](https://jitpack.io/#andrestubbe/FastOCR) | [**FastOCR**](https://github.com/andrestubbe/FastOCR) | 160 | 84 | 34 | 2 | 1 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastOverlay) | [**FastOverlay**](https://github.com/andrestubbe/FastOverlay) | 96 | 56 | 12 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastPreview) | [**FastPreview**](https://github.com/andrestubbe/FastPreview) | 157 | 85 | 8 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastProportion) | [**FastProportion**](https://github.com/andrestubbe/FastProportion) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastRAG) | [**FastRAG**](https://github.com/andrestubbe/FastRAG) | 0 | 0 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastRobot) | [**FastRobot**](https://github.com/andrestubbe/FastRobot) &#11088; | 231 | 102 | 15 | 7 | 1 | 0 | 0 | [[1]](https://github.com), [[4]](https://Google) |
+| [🟢](https://jitpack.io/#andrestubbe/FastRobot) | [**FastRobot**](https://github.com/andrestubbe/FastRobot) &#11088; | 231 | 102 | 15 | 7 | 1 | 0 | 0 | [[1]](https://github.com), [[4]](https://Google) |
 | [🟠](https://jitpack.io/#andrestubbe/FastScrape) | [**FastScrape**](https://github.com/andrestubbe/FastScrape) | 183 | 99 | 12 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastScreen) | [**FastScreen**](https://github.com/andrestubbe/FastScreen) | 111 | 58 | 21 | 3 | 0 | 0 | 0 | [[6]](https://Bing), [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastShop) | [**FastShop**](https://github.com/andrestubbe/FastShop) | 0 | 0 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -60,20 +61,20 @@ All repositories in the FastJava Ecosystem are currently under active developmen
 | [🟠](https://jitpack.io/#andrestubbe/FastSTT) | [**FastSTT**](https://github.com/andrestubbe/FastSTT) | 136 | 80 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastStylus) | [**FastStylus**](https://github.com/andrestubbe/FastStylus) | 163 | 89 | 12 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) &#11088; | 460 | 184 | 24 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[7]](https://linkedin.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) &#11088; | 353 | 151 | 43 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[6]](https://Bing) |
+| [🟠](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) &#11088; | 353 | 151 | 43 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[6]](https://Bing) |
 | [🟠](https://jitpack.io/#andrestubbe/FastThumb) | [**FastThumb**](https://github.com/andrestubbe/FastThumb) | 98 | 56 | 7 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTokenizer) | [**FastTokenizer**](https://github.com/andrestubbe/FastTokenizer) | 96 | 51 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTouch) | [**FastTouch**](https://github.com/andrestubbe/FastTouch) &#11088; | 360 | 187 | 40 | 1 | 0 | 0 | 0 | [[7]](https://linkedin.com), [[1]](https://github.com), [[6]](https://Bing) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTTS) | [**FastTTS**](https://github.com/andrestubbe/FastTTS) | 171 | 84 | 10 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastTween) | [**FastTween**](https://github.com/andrestubbe/FastTween) &#11088; | 347 | 161 | 42 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[8]](https://jitpack.io) |
+| [🟢](https://jitpack.io/#andrestubbe/FastTween) | [**FastTween**](https://github.com/andrestubbe/FastTween) &#11088; | 347 | 161 | 42 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[8]](https://jitpack.io) |
 | [🟠](https://jitpack.io/#andrestubbe/FastUI) | [**FastUI**](https://github.com/andrestubbe/FastUI) | 143 | 78 | 7 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastUIA) | [**FastUIA**](https://github.com/andrestubbe/FastUIA) | 111 | 58 | 4 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastVectorDB) | [**FastVectorDB**](https://github.com/andrestubbe/FastVectorDB) | 0 | 0 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | 126 | 71 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
+| | **/ 57 repos** | **9827** | **4884** | **808** | **145** | **9** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [youtube.com](https://youtube.com), [3] [copilot.microsoft.com](https://copilot.microsoft.com), [4] [Google](https://Google), [5] [yandex.ru](https://yandex.ru), [6] [Bing](https://Bing), [7] [linkedin.com](https://linkedin.com), [8] [jitpack.io](https://jitpack.io)*
-| | **/ 56 repos** | **9827** | **4884** | **808** | **145** | **9** | | | |
-<br>*(Automatisch aktualisiert: 03.06.2026, 13:26 Uhr)*
+<br>*(Automatisch aktualisiert: 03.06.2026, 13:35 Uhr)*
 <!-- STATS_END -->
 
 <br>
