@@ -1,4 +1,4 @@
-### ⚡ What is the FastJava Ecosystem?
+﻿### ⚡ What is the FastJava Ecosystem?
 > I build the things I constantly need, but I build them right.<br>
 > I used to build them again and again, dreaming of doing it one last time.<br>
 > Built once, reusable everywhere. That is why the FastJava Ecosystem exists.<br>
@@ -61,7 +61,7 @@ All repositories in the FastJava Ecosystem are currently under active developmen
 | [🟠](https://jitpack.io/#andrestubbe/FastSTT) | [**FastSTT**](https://github.com/andrestubbe/FastSTT) | 136 | 80 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastStylus) | [**FastStylus**](https://github.com/andrestubbe/FastStylus) | 163 | 89 | 12 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) &#11088; | 460 | 184 | 24 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[7]](https://linkedin.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) &#11088; | 353 | 151 | 43 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[6]](https://Bing) |
+| [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) &#11088; | 353 | 151 | 43 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://youtube.com), [[6]](https://Bing) |
 | [🟠](https://jitpack.io/#andrestubbe/FastThumb) | [**FastThumb**](https://github.com/andrestubbe/FastThumb) | 98 | 56 | 7 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTokenizer) | [**FastTokenizer**](https://github.com/andrestubbe/FastTokenizer) | 96 | 51 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTouch) | [**FastTouch**](https://github.com/andrestubbe/FastTouch) &#11088; | 360 | 187 | 40 | 1 | 0 | 0 | 0 | [[7]](https://linkedin.com), [[1]](https://github.com), [[6]](https://Bing) |
@@ -74,7 +74,7 @@ All repositories in the FastJava Ecosystem are currently under active developmen
 | | **/ 57 repos** | **9827** | **4884** | **808** | **145** | **9** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [youtube.com](https://youtube.com), [3] [copilot.microsoft.com](https://copilot.microsoft.com), [4] [Google](https://Google), [5] [yandex.ru](https://yandex.ru), [6] [Bing](https://Bing), [7] [linkedin.com](https://linkedin.com), [8] [jitpack.io](https://jitpack.io)*
-<br>*(Automatisch aktualisiert: 03.06.2026, 13:35 Uhr)*
+<br>*(Automatisch aktualisiert: 03.06.2026, 19:34 Uhr)*
 <!-- STATS_END -->
 
 <br>
