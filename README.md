@@ -15,7 +15,7 @@
 |:---:|:---|---:|---:|---:|---:|---:|---:|---:|:---|
 | | &#128081; [**FastJava**](https://github.com/andrestubbe/FastJava) | 54 | 33 | 8 | 1 | 1 | 0 | 0 | [[1]](https://github.com) |
 | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; |
-| [🟠](https://jitpack.io/#andrestubbe/FastAIService) | [**FastAIService**](https://github.com/andrestubbe/FastAIService) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastAI) | [**FastAI**](https://github.com/andrestubbe/FastAI) | 0 | 0 | 1 | 1 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAnimation) | [**FastAnimation**](https://github.com/andrestubbe/FastAnimation) &#11088; | 515 | 219 | 58 | 5 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastANSI) | [**FastANSI**](https://github.com/andrestubbe/FastANSI) &#11088; | 381 | 151 | 36 | 6 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://com.linkedin.android), [[3]](https://Bing) |
 | [🟢](https://jitpack.io/#andrestubbe/FastASCII) | [**FastASCII**](https://github.com/andrestubbe/FastASCII) | 171 | 93 | 31 | 4 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -66,10 +66,10 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastUI) | [**FastUI**](https://github.com/andrestubbe/FastUI) | 203 | 75 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastUIA) | [**FastUIA**](https://github.com/andrestubbe/FastUIA) | 167 | 71 | 7 | 5 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | 126 | 56 | 4 | 4 | 0 | 0 | 0 | [[1]](https://github.com) |
-| | **/ 52 repos** | **9338** | **3956** | **701** | **155** | **10** | | | |
+| | **/ 52 repos** | **9338** | **3956** | **702** | **156** | **10** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [com.linkedin.android](https://com.linkedin.android), [3] [Bing](https://Bing), [4] [jitpack.io](https://jitpack.io), [5] [youtube.com](https://youtube.com), [6] [Google](https://Google), [7] [yandex.ru](https://yandex.ru), [8] [linkedin.com](https://linkedin.com)*
-<br>*(Automatisch aktualisiert: 13.06.2026, 09:50 Uhr)*
+<br>*(Automatisch aktualisiert: 13.06.2026, 09:58 Uhr)*
 <!-- STATS_END -->
 
 <br>
