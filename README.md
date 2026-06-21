@@ -57,7 +57,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastRobot) | [**FastRobot**](https://github.com/andrestubbe/FastRobot) | 170 | 54 | 5 | 1 | 1 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastScrape) | [**FastScrape**](https://github.com/andrestubbe/FastScrape) | 146 | 41 | 3 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastScreen) | [**FastScreen**](https://github.com/andrestubbe/FastScreen) | 123 | 49 | 11 | 5 | 1 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastSoftware3D) | [**FastSoftware3D**](https://github.com/andrestubbe/FastSoftware3D) | 160 | 85 | 26 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastSoftware3D) | [**FastSoftware3D**](https://github.com/andrestubbe/FastSoftware3D) | 160 | 85 | 26 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastString) | [**FastString**](https://github.com/andrestubbe/FastString) | 111 | 43 | 6 | 4 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastStylus) | [**FastStylus**](https://github.com/andrestubbe/FastStylus) | 143 | 53 | 6 | 4 | 0 | 0 | 0 | [[1]](https://github.com), [[9]](https://forum.jogamp.org) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) &#11088; | 646 | 156 | 23 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -73,7 +73,7 @@
 | | **/ 56 repos** | **9480** | **3427** | **692** | **163** | **11** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [com.linkedin.android](https://com.linkedin.android), [3] [Bing](https://Bing), [4] [linkedin.com](https://linkedin.com), [5] [youtube.com](https://youtube.com), [6] [jitpack.io](https://jitpack.io), [7] [Google](https://Google), [8] [DuckDuckGo](https://DuckDuckGo), [9] [forum.jogamp.org](https://forum.jogamp.org)*
-<br>*(Automatisch aktualisiert: 21.06.2026, 15:47 Uhr)*
+<br>*(Automatisch aktualisiert: 21.06.2026, 16:13 Uhr)*
 <!-- STATS_END -->
 
 <br>
