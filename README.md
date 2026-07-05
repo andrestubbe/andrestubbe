@@ -53,7 +53,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastMouse) | [**FastMouse**](https://github.com/andrestubbe/FastMouse) | 8 | 8 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastNotification) | [**FastNotification**](https://github.com/andrestubbe/FastNotification) &#11088; | 80 | 18 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastOCR) | [**FastOCR**](https://github.com/andrestubbe/FastOCR) | 38 | 17 | 0 | 0 | 1 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastOverlay) | [**FastOverlay**](https://github.com/andrestubbe/FastOverlay) | 5 | 5 | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastOverlay) | [**FastOverlay**](https://github.com/andrestubbe/FastOverlay) | 5 | 5 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastProportion) | [**FastProportion**](https://github.com/andrestubbe/FastProportion) | 11 | 8 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastRobot) | [**FastRobot**](https://github.com/andrestubbe/FastRobot) &#11088; | 326 | 53 | 0 | 0 | 1 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastScrape) | [**FastScrape**](https://github.com/andrestubbe/FastScrape) | 6 | 6 | 2 | 1 | 0 | 0 | 0 | [?] |
@@ -69,11 +69,12 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastTween) | [**FastTween**](https://github.com/andrestubbe/FastTween) | 57 | 21 | 10 | 8 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastUI) | [**FastUI**](https://github.com/andrestubbe/FastUI) | 23 | 8 | 1 | 1 | 0 | 0 | 0 | [[2]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastUIA) | [**FastUIA**](https://github.com/andrestubbe/FastUIA) | 6 | 6 | 5 | 2 | 0 | 0 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastWakeWord) | [**FastWakeWord**](https://github.com/andrestubbe/FastWakeWord) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | 11 | 5 | 2 | 2 | 0 | 0 | 0 | [[2]](https://github.com) |
-| | **/ 56 repos** | **2807** | **919** | **152** | **91** | **11** | | | |
+| | **/ 57 repos** | **2807** | **919** | **152** | **91** | **11** | | | |
 
 *Referrers: [1] [linkedin.com](https://linkedin.com), [2] [github.com](https://github.com), [3] [DuckDuckGo](https://DuckDuckGo), [4] [yandex.com](https://yandex.com), [5] [Bing](https://Bing)*
-<br>*(Automatisch aktualisiert: 05.07.2026, 11:47 Uhr)*
+<br>*(Automatisch aktualisiert: 05.07.2026, 11:55 Uhr)*
 <!-- STATS_END -->
 
 <br>
