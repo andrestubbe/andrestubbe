@@ -39,7 +39,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastFloat) | [**FastFloat**](https://github.com/andrestubbe/FastFloat) | 11 | 8 | 1 | 1 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastGhostMouse) | [**FastGhostMouse**](https://github.com/andrestubbe/FastGhostMouse) | 19 | 15 | 2 | 1 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastGLOB) | [**FastGLOB**](https://github.com/andrestubbe/FastGLOB) | 13 | 9 | 0 | 0 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastGPU) | [**FastGPU**](https://github.com/andrestubbe/FastGPU) | 14 | 11 | 1 | 1 | 0 | 0 | 0 | [[2]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastGPU) | [**FastGPU**](https://github.com/andrestubbe/FastGPU) | 14 | 11 | 1 | 1 | 0 | 0 | 0 | [[2]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastGraphics) | [**FastGraphics**](https://github.com/andrestubbe/FastGraphics) | 8 | 8 | 3 | 3 | 2 | 0 | 0 | [[2]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) &#11088; | 45 | 29 | 1 | 1 | 0 | 0 | 0 | [[2]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastHardware) | [**FastHardware**](https://github.com/andrestubbe/FastHardware) | 9 | 8 | 1 | 1 | 0 | 0 | 0 | [?] |
@@ -74,7 +74,7 @@
 | | **/ 57 repos** | **1459** | **934** | **215** | **126** | **13** | | | |
 
 *Referrers: [1] [linkedin.com](https://linkedin.com), [2] [github.com](https://github.com), [3] [youtube.com](https://youtube.com), [4] [DuckDuckGo](https://DuckDuckGo), [5] [Bing](https://Bing), [6] [yandex.ru](https://yandex.ru)*
-<br>*(Automatisch aktualisiert: 10.07.2026, 18:09 Uhr)*
+<br>*(Automatisch aktualisiert: 10.07.2026, 22:49 Uhr)*
 <!-- STATS_END -->
 
 <br>
