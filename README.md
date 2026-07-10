@@ -23,7 +23,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastASCII) | [**FastASCII**](https://github.com/andrestubbe/FastASCII) &#11088; | 37 | 27 | 22 | 8 | 0 | 0 | 0 | [[3]](https://youtube.com), [[2]](https://github.com), [[1]](https://linkedin.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioCapture) | [**FastAudioCapture**](https://github.com/andrestubbe/FastAudioCapture) | 12 | 12 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioPlayer) | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | 28 | 19 | 0 | 0 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastAudioProcess) | [**FastAudioProcess**](https://github.com/andrestubbe/FastAudioProcess) &#11088; | 182 | 98 | 8 | 3 | 0 | 0 | 0 | [[2]](https://github.com), [[1]](https://linkedin.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastAudioProcess) | [**FastAudioProcess**](https://github.com/andrestubbe/FastAudioProcess) &#11088; | 182 | 98 | 8 | 3 | 0 | 0 | 0 | [[2]](https://github.com), [[1]](https://linkedin.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastBytes) | [**FastBytes**](https://github.com/andrestubbe/FastBytes) | 18 | 13 | 3 | 2 | 0 | 0 | 0 | [[4]](https://DuckDuckGo) |
 | [🟢](https://jitpack.io/#andrestubbe/FastCamera) | [**FastCamera**](https://github.com/andrestubbe/FastCamera) | 11 | 7 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastClipboard) | [**FastClipboard**](https://github.com/andrestubbe/FastClipboard) | 17 | 12 | 1 | 1 | 0 | 0 | 0 | [[2]](https://github.com) |
@@ -74,7 +74,7 @@
 | | **/ 57 repos** | **1459** | **934** | **215** | **126** | **12** | | | |
 
 *Referrers: [1] [linkedin.com](https://linkedin.com), [2] [github.com](https://github.com), [3] [youtube.com](https://youtube.com), [4] [DuckDuckGo](https://DuckDuckGo), [5] [Bing](https://Bing), [6] [yandex.ru](https://yandex.ru)*
-<br>*(Automatisch aktualisiert: 10.07.2026, 17:24 Uhr)*
+<br>*(Automatisch aktualisiert: 10.07.2026, 17:51 Uhr)*
 <!-- STATS_END -->
 
 <br>
