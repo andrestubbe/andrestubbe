@@ -25,7 +25,7 @@
 | [🟠](https://jitpack.io/#andrestubbe/FastAIVectorDB) | [**FastAIVectorDB**](https://github.com/andrestubbe/FastAIVectorDB) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAnimation) | [**FastAnimation**](https://github.com/andrestubbe/FastAnimation) | 13 | 8 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastANSI) | [**FastANSI**](https://github.com/andrestubbe/FastANSI) &#11088; | 56 | 34 | 24 | 7 | 0 | 0 | 0 | [[4]](https://Bing), [[3]](https://youtube.com), [[2]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastASCII) | [**FastASCII**](https://github.com/andrestubbe/FastASCII) | 37 | 27 | 34 | 11 | 2 | 0 | 0 | [[3]](https://youtube.com), [[2]](https://github.com), [[1]](https://linkedin.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastASCII) | [**FastASCII**](https://github.com/andrestubbe/FastASCII) | 37 | 27 | 34 | 11 | 3 | 0 | 0 | [[3]](https://youtube.com), [[2]](https://github.com), [[1]](https://linkedin.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioCapture) | [**FastAudioCapture**](https://github.com/andrestubbe/FastAudioCapture) | 10 | 10 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioPlayer) | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | 26 | 17 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioProcess) | [**FastAudioProcess**](https://github.com/andrestubbe/FastAudioProcess) &#11088; | 189 | 102 | 8 | 3 | 0 | 0 | 0 | [[2]](https://github.com), [[1]](https://linkedin.com) |
@@ -76,10 +76,10 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastUIA) | [**FastUIA**](https://github.com/andrestubbe/FastUIA) | 14 | 10 | 5 | 3 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastWakeWord) | [**FastWakeWord**](https://github.com/andrestubbe/FastWakeWord) &#11088; | 42 | 28 | 12 | 1 | 0 | 0 | 0 | [[2]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | 27 | 19 | 7 | 3 | 0 | 0 | 0 | [[2]](https://github.com) |
-| | **/ 62 repos** | **1536** | **974** | **253** | **133** | **14** | | | |
+| | **/ 62 repos** | **1536** | **974** | **253** | **133** | **15** | | | |
 
 *Referrers: [1] [linkedin.com](https://linkedin.com), [2] [github.com](https://github.com), [3] [youtube.com](https://youtube.com), [4] [Bing](https://Bing), [5] [DuckDuckGo](https://DuckDuckGo), [6] [yandex.ru](https://yandex.ru)*
-<br>*(Automatisch aktualisiert: 11.07.2026, 14:52 Uhr)*
+<br>*(Automatisch aktualisiert: 11.07.2026, 21:46 Uhr)*
 <!-- STATS_END -->
 
 <br>
