@@ -9,6 +9,13 @@
 > All repositories in the FastJava Ecosystem are currently under active development. Expect breaking changes, incomplete APIs, and missing documentation.
 ---
 
+### 🚀 CREAM Traffic (Last 14 Days)
+| Jit | Repository | Clones | C. Uniq | Views | V. Uniq | Stars | Forks | Watch | Referrers |
+| X | [**CREAM CLI**](https://github.com/andrestubbe/Cream-CLI) &#11088; | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X |
+| X | [**CREAM GUI**](https://github.com/andrestubbe/Cream-GUI) &#11088; | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X |
+| | **/ 2 repos** | **0** | **0** | **0** | **0** | **0** | | | |
+
+
 ### 🚀 FastJava Ecosystem Traffic (Last 14 Days)
 <!-- STATS_START -->
 | Jit | Repository | Clones | C. Uniq | Views | V. Uniq | Stars | Forks | Watch | Referrers |
@@ -79,7 +86,7 @@
 | | **/ 62 repos** | **2268** | **1405** | **354** | **161** | **15** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [youtube.com](https://youtube.com), [4] [Bing](https://Bing), [5] [chatgpt.com](https://chatgpt.com), [6] [DuckDuckGo](https://DuckDuckGo), [7] [yandex.ru](https://yandex.ru)*
-<br>*(Automatisch aktualisiert: 16.07.2026, 18:16 Uhr)*
+<br>*(Automatisch aktualisiert: 16.07.2026, 18:27 Uhr)*
 <!-- STATS_END -->
 
 <br>
