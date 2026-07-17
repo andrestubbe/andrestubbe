@@ -1,4 +1,4 @@
-﻿### ⚡ What is the FastJava Ecosystem?
+### ⚡ What is the FastJava Ecosystem?
 > I build the things I constantly need, but I build them right.<br>
 > I used to build them again and again, dreaming of doing it one last time.<br>
 > Built once, reusable everywhere. That is why the FastJava Ecosystem exists.<br>
@@ -9,12 +9,14 @@
 > All repositories in the FastJava Ecosystem are currently under active development. Expect breaking changes, incomplete APIs, and missing documentation.
 ---
 
-### 🚀 CREAM Traffic (Last 14 Days)
-| Jit | Repository                                                         | Clones | C. Uniq | Views | V. Uniq | Stars | Forks | Watch | Referrers |
-|:---:|:-------------------------------------------------------------------|---:|---:|---:|---:|---:|---:|---:|:---|
-| X | [**Cream CLI**](https://github.com/andrestubbe/Cream-CLI) &#11088; | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X |
-| X | [**Cream GUI**](https://github.com/andrestubbe/Cream-GUI) &#11088; | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X |
-| | **/ 2 repos**                                                      | **0** | **0** | **0** | **0** | **0** | | | |
+### 🤖 CREAM Traffic (Last 14 Days)
+<!-- CREAM_STATS_START -->
+| Repository | Views | V. Uniq | Stars | Watch | Referrers |
+|:---|---:|---:|---:|---:|:---|
+| [**Cream CLI**](https://github.com/andrestubbe/Cream-CLI) &#11088; | 0 | 0 | 0 | 0 | — |
+| [**Cream GUI**](https://github.com/andrestubbe/Cream-GUI) &#11088; | 0 | 0 | 0 | 0 | — |
+| **/ 2 repos** | **0** | **0** | **0** | | |
+<!-- CREAM_STATS_END -->
 
 ### 🚀 FastJava Ecosystem Traffic (Last 14 Days)
 <!-- STATS_START -->
