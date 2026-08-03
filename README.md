@@ -45,6 +45,8 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastClipboard) | [**FastClipboard**](https://github.com/andrestubbe/FastClipboard) | 5 | 5 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastCompress) | [**FastCompress**](https://github.com/andrestubbe/FastCompress) | 3 | 3 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastConPTY) | [**FastConPTY**](https://github.com/andrestubbe/FastConPTY) &#11088; | 20 | 17 | 13 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastContentChunk) | [**FastContentChunk**](https://github.com/andrestubbe/FastContentChunk) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastContentParse) | [**FastContentParse**](https://github.com/andrestubbe/FastContentParse) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastCore) | [**FastCore**](https://github.com/andrestubbe/FastCore) | 3 | 3 | 0 | 0 | 1 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastDisplay) | [**FastDisplay**](https://github.com/andrestubbe/FastDisplay) | 5 | 5 | 2 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastDWM) | [**FastDWM**](https://github.com/andrestubbe/FastDWM) | 6 | 6 | 2 | 2 | 0 | 0 | 0 | [?] |
@@ -88,10 +90,10 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastUIA) | [**FastUIA**](https://github.com/andrestubbe/FastUIA) | 3 | 3 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastWakeWord) | [**FastWakeWord**](https://github.com/andrestubbe/FastWakeWord) &#11088; | 9 | 9 | 1 | 1 | 0 | 0 | 0 | [[2]](https://Google) |
 | [🟢](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | 4 | 4 | 0 | 0 | 0 | 0 | 0 | [?] |
-| | **/ 63 repos** | **540** | **434** | **214** | **63** | **13** | | | |
+| | **/ 65 repos** | **540** | **434** | **214** | **63** | **13** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Google](https://Google), [3] [Baidu](https://Baidu), [4] [Bing](https://Bing), [5] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 03.08.2026, 13:57 Uhr)*
+<br>*(Automatisch aktualisiert: 03.08.2026, 15:00 Uhr)*
 <!-- STATS_END -->
 
 <br>
