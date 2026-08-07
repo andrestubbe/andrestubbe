@@ -28,7 +28,7 @@
 | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; |
 | [🟢](https://jitpack.io/#andrestubbe/FastAI) | [**FastAI**](https://github.com/andrestubbe/FastAI) &#11088; | 8 | 7 | 4 | 2 | 0 | 0 | 0 | [[1]](https://Google) |
 | [🟠](https://jitpack.io/#andrestubbe/FastAIAgent) | [**FastAIAgent**](https://github.com/andrestubbe/FastAIAgent) | 3 | 3 | 0 | 0 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastAIBot) | [**FastAIBot**](https://github.com/andrestubbe/FastAIBot) | 5 | 3 | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastAIBot) | [**FastAIBot**](https://github.com/andrestubbe/FastAIBot) | 5 | 3 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIMemory) | [**FastAIMemory**](https://github.com/andrestubbe/FastAIMemory) | 7 | 6 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIModel) | [**FastAIModel**](https://github.com/andrestubbe/FastAIModel) | 3 | 3 | 2 | 2 | 0 | 1 | 0 | [[2]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIRag) | [**FastAIRag**](https://github.com/andrestubbe/FastAIRag) | 4 | 4 | 0 | 0 | 0 | 0 | 0 | [?] |
@@ -93,7 +93,7 @@
 | | **/ 65 repos** | **474** | **394** | **209** | **63** | **13** | | | |
 
 *Referrers: [1] [Google](https://Google), [2] [github.com](https://github.com), [3] [Bing](https://Bing), [4] [DuckDuckGo](https://DuckDuckGo), [5] [youtube.com](https://youtube.com)*
-<br>*(Automatisch aktualisiert: 07.08.2026, 08:54 Uhr)*
+<br>*(Automatisch aktualisiert: 07.08.2026, 09:54 Uhr)*
 <!-- STATS_END -->
 
 <br>
