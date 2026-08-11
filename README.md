@@ -79,6 +79,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastScreen) | [**FastScreen**](https://github.com/andrestubbe/FastScreen) | 7 | 6 | 3 | 3 | 1 | 0 | 0 | [[2]](https://Bing), [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastSoftware3D) | [**FastSoftware3D**](https://github.com/andrestubbe/FastSoftware3D) | 6 | 6 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastString) | [**FastString**](https://github.com/andrestubbe/FastString) | 4 | 4 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastSTT) | [**FastSTT**](https://github.com/andrestubbe/FastSTT) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastStylus) | [**FastStylus**](https://github.com/andrestubbe/FastStylus) | 6 | 3 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) &#11088; | 43 | 24 | 3 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) | 15 | 12 | 6 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://Bing) |
@@ -90,10 +91,10 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastUIA) | [**FastUIA**](https://github.com/andrestubbe/FastUIA) | 13 | 10 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastWakeWord) | [**FastWakeWord**](https://github.com/andrestubbe/FastWakeWord) | 6 | 6 | 3 | 3 | 0 | 0 | 0 | [[5]](https://Google), [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | 6 | 5 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
-| | **/ 65 repos** | **944** | **686** | **426** | **159** | **13** | | | |
+| | **/ 66 repos** | **944** | **686** | **426** | **159** | **13** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [linkedin.com](https://linkedin.com), [4] [youtube.com](https://youtube.com), [5] [Google](https://Google), [6] [DuckDuckGo](https://DuckDuckGo), [7] [trello.com](https://trello.com)*
-<br>*(Automatisch aktualisiert: 11.08.2026, 20:05 Uhr)*
+<br>*(Automatisch aktualisiert: 11.08.2026, 22:45 Uhr)*
 <!-- STATS_END -->
 
 <br>
