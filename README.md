@@ -87,7 +87,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastStylus) | [**FastStylus**](https://github.com/andrestubbe/FastStylus) | 18 | 12 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) | 27 | 21 | 4 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) | 21 | 16 | 6 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[3]](https://Bing) |
-| [🟠](https://jitpack.io/#andrestubbe/FastTokenize) | [**FastTokenize**](https://github.com/andrestubbe/FastTokenize) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastTokenize) | [**FastTokenize**](https://github.com/andrestubbe/FastTokenize) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastTouch) | [**FastTouch**](https://github.com/andrestubbe/FastTouch) | 4 | 4 | 14 | 6 | 0 | 0 | 0 | [[4]](https://youtube.com), [[7]](https://DuckDuckGo), [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTTS) | [**FastTTS**](https://github.com/andrestubbe/FastTTS) &#11088; | 118 | 66 | 92 | 12 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTUI) | [**FastTUI**](https://github.com/andrestubbe/FastTUI) | 20 | 16 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -99,7 +99,7 @@
 | | **/ 71 repos** | **2943** | **1845** | **1027** | **192** | **14** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [Bing](https://Bing), [4] [youtube.com](https://youtube.com), [5] [Google](https://Google), [6] [trello.com](https://trello.com), [7] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 16.08.2026, 17:16 Uhr)*
+<br>*(Automatisch aktualisiert: 16.08.2026, 17:30 Uhr)*
 <!-- STATS_END -->
 
 <br>
