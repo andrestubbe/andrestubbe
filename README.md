@@ -1,4 +1,4 @@
-﻿### ⚡ What is the FastJava Ecosystem?
+### ⚡ What is the FastJava Ecosystem?
 > I build the things I constantly need, but I build them right.<br>
 > I used to build them again and again, dreaming of doing it one last time.<br>
 > Built once, reusable everywhere. That is why the FastJava Ecosystem exists.<br>
@@ -107,9 +107,10 @@
 <br>*(Automatisch aktualisiert: 21.08.2026, 04:06 Uhr)*
 <!-- STATS_END -->
 
-<br>
+<details>
+<summary><h2>🎙️ What my AI models say about me</h2></summary>
 
-# 🎙️ What my AI models say about me
+<br>
 
 > 🔊 [**Listen to this page**](https://raw.githubusercontent.com/andrestubbe/andrestubbe/main/opinions.mp3) *(AI-generated voice)*
 
@@ -132,6 +133,8 @@
 
 ### ✖️ Grok about Andre
 > Andre is a radical minimalist with extremely high standards. He optimizes not just code, but entire systems to their physical limits. No bloat, no compromises, no excuses. Precision, speed, and control are more important to him than features. He doesn't build apps — he shapes his own computing environment.
+
+</details>
 
 
 
