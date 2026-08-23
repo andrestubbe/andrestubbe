@@ -50,6 +50,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastRobot) | [**FastRobot**](https://github.com/andrestubbe/FastRobot) | 30 | 21 | 21 | 3 | 1 | 0 | 0 | [[5]](https://Google), [[1]](https://github.com), [[6]](https://trello.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastUIA) | [**FastUIA**](https://github.com/andrestubbe/FastUIA) | 18 | 13 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | 15 | 11 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastSpider) | [**FastSpider**](https://github.com/andrestubbe/FastSpider) | 11 | 9 | 5 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | &#10134; | **🎬 4. Animation & Execution** | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; |
 | [🟢](https://jitpack.io/#andrestubbe/FastAnimation) | [**FastAnimation**](https://github.com/andrestubbe/FastAnimation) &#11088; | 176 | 85 | 8 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTween) | [**FastTween**](https://github.com/andrestubbe/FastTween) | 21 | 16 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
