@@ -9,17 +9,6 @@
 > All repositories in the FastJava Ecosystem are currently under active development. Expect breaking changes, incomplete APIs, and missing documentation.
 ---
 
-### 🤖 CREAM Traffic (Last 14 Days)
-<!-- CREAM_STATS_START -->
-| Repository | Views | V. Uniq | Stars | Watch | Referrers |
-|:---|---:|---:|---:|---:|:---|
-| [**Cream-CLI**](https://github.com/andrestubbe/Cream-CLI) &#11088; | 32 | 3 | 1 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com) |
-| [**Cream-GUI**](https://github.com/andrestubbe/Cream-GUI) &#11088; | 1 | 1 | 0 | 0 | [[1]](https://github.com) |
-| **/ 2 repos** | **33** | **4** | **1** | | |
-
-*Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com)*
-<!-- CREAM_STATS_END -->
-
 ### 🚀 FastJava Ecosystem Traffic (Last 14 Days)
 <!-- STATS_START -->
 | Jit | Repository | Clones | C. Uniq | Views | V. Uniq | Stars | Forks | Watch | Referrers |
@@ -136,6 +125,17 @@
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [com.linkedin.android](https://com.linkedin.android), [4] [Bing](https://Bing), [5] [youtube.com](https://youtube.com), [6] [Google](https://Google), [7] [trello.com](https://trello.com)*
 <br>*(Automatisch aktualisiert: 23.08.2026, 22:20 Uhr)*
 <!-- STATS_END -->
+
+### 🤖 CREAM Traffic (Last 14 Days)
+<!-- CREAM_STATS_START -->
+| Repository | Views | V. Uniq | Stars | Watch | Referrers |
+|:---|---:|---:|---:|---:|:---|
+| [**Cream-CLI**](https://github.com/andrestubbe/Cream-CLI) &#11088; | 32 | 3 | 1 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com) |
+| [**Cream-GUI**](https://github.com/andrestubbe/Cream-GUI) &#11088; | 1 | 1 | 0 | 0 | [[1]](https://github.com) |
+| **/ 2 repos** | **33** | **4** | **1** | | |
+
+*Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com)*
+<!-- CREAM_STATS_END -->
 
 <details>
 <summary><h2>🎙️ What my AI models say about me</h2></summary>
