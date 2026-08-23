@@ -25,7 +25,7 @@
 | Jit | Repository | Clones | C. Uniq | Views | V. Uniq | Stars | Forks | Watch | Referrers |
 |:---:|:---|---:|---:|---:|---:|---:|---:|---:|:---|
 | | &#128081; [**FastJava**](https://github.com/andrestubbe/FastJava) | 139 | 56 | 25 | 2 | 2 | 0 | 0 | [[1]](https://github.com), [[3]](https://Bing) |
-| &#10134; | **🤖 1. AI & LLM Ecosystem** | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; |
+| &#10134; | **🤖 1. AI** | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; | &#10134; |
 | [🟢](https://jitpack.io/#andrestubbe/FastAI) | [**FastAI**](https://github.com/andrestubbe/FastAI) | 106 | 72 | 33 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastAIAgent) | [**FastAIAgent**](https://github.com/andrestubbe/FastAIAgent) | 17 | 15 | 6 | 4 | 1 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIBot) | [**FastAIBot**](https://github.com/andrestubbe/FastAIBot) | 45 | 29 | 31 | 5 | 0 | 0 | 0 | [[1]](https://github.com), [[3]](https://Bing), [[2]](https://linkedin.com) |
