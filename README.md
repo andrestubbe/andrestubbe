@@ -113,6 +113,8 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastOverlay) | [**FastOverlay**](https://github.com/andrestubbe/FastOverlay) | 13 | 13 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastGhostMouse) | [**FastGhostMouse**](https://github.com/andrestubbe/FastGhostMouse) | 21 | 18 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastSoftware3D) | [**FastSoftware3D**](https://github.com/andrestubbe/FastSoftware3D) | 10 | 10 | 3 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastThumb) | [**FastThumb**](https://github.com/andrestubbe/FastThumb) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastPreview) | [**FastPreview**](https://github.com/andrestubbe/FastPreview) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🪟 14. Desktop UI & Display** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastDisplay) | [**FastDisplay**](https://github.com/andrestubbe/FastDisplay) | 27 | 20 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -133,10 +135,10 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastExecution) | [**FastExecution**](https://github.com/andrestubbe/FastExecution) | 39 | 24 | 21 | 4 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTween) | [**FastTween**](https://github.com/andrestubbe/FastTween) | 39 | 23 | 5 | 4 | 1 | 0 | 0 | [[2]](https://linkedin.com), [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAnimation) | [**FastAnimation**](https://github.com/andrestubbe/FastAnimation) &#11088; | 248 | 119 | 92 | 5 | 1 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com), [[4]](https://Bing) |
-| | **/ 88 repos** | **4259** | **2675** | **1364** | **212** | **18** | | | |
+| | **/ 90 repos** | **4259** | **2675** | **1364** | **212** | **18** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [com.linkedin.android](https://com.linkedin.android), [4] [Bing](https://Bing), [5] [youtube.com](https://youtube.com), [6] [Google](https://Google), [7] [trello.com](https://trello.com)*
-<br>*(Automatisch aktualisiert: 24.08.2026, 13:20 Uhr)*
+<br>*(Automatisch aktualisiert: 24.08.2026, 14:08 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
