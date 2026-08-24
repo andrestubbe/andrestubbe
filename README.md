@@ -36,7 +36,8 @@
 | [🟠](https://jitpack.io/#andrestubbe/FastAIMCP) | [**FastAIMCP**](https://github.com/andrestubbe/FastAIMCP) | 17 | 12 | 23 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[4]](https://Bing), [[2]](https://linkedin.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIBot) | [**FastAIBot**](https://github.com/andrestubbe/FastAIBot) | 16 | 13 | 4 | 1 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastAIAgent) | [**FastAIAgent**](https://github.com/andrestubbe/FastAIAgent) | 55 | 38 | 32 | 9 | 1 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com), [[3]](https://com.linkedin.android) |
-| [🟠](https://jitpack.io/#andrestubbe/FastAIState) | [**FastAIState**](https://github.com/andrestubbe/FastAIState) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastAIState) | [**FastAIState**](https://github.com/andrestubbe/FastAIState) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastAIMetrics) | [**FastAIMetrics**](https://github.com/andrestubbe/FastAIMetrics) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🤹 3. Machine Learning** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟠](https://jitpack.io/#andrestubbe/FastDL) | [**FastDL**](https://github.com/andrestubbe/FastDL) | 26 | 22 | 6 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
