@@ -65,6 +65,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastContentParse) | [**FastContentParse**](https://github.com/andrestubbe/FastContentParse) | 32 | 23 | 6 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastEmojis) | [**FastEmojis**](https://github.com/andrestubbe/FastEmojis) | 20 | 14 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTokenize) | [**FastTokenize**](https://github.com/andrestubbe/FastTokenize) &#11088; | 137 | 88 | 47 | 4 | 0 | 0 | 0 | [[1]](https://github.com), [[4]](https://Bing) |
+| [🟢](https://jitpack.io/#andrestubbe/FastRegex) | [**FastRegex**](https://github.com/andrestubbe/FastRegex) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🌐 6. Web** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟠](https://jitpack.io/#andrestubbe/FastSpider) | [**FastSpider**](https://github.com/andrestubbe/FastSpider) | 17 | 12 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
