@@ -7,6 +7,9 @@
 ---
 ### 🚧 Work In Progress
 > All repositories in the FastJava Ecosystem are currently under active development. Expect breaking changes, incomplete APIs, and missing documentation.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=andrestubbe&color=brightgreen&style=flat-square&label=VISITORS)](https://github.com/andrestubbe)
+
 ---
 
 ### 🚀 FastJava Ecosystem Traffic (Last 14 Days)
