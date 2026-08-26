@@ -33,7 +33,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastAIRag) | [**FastAIRag**](https://github.com/andrestubbe/FastAIRag) | 20 | 18 | 3 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIReasoner) | [**FastAIReasoner**](https://github.com/andrestubbe/FastAIReasoner) | 33 | 20 | 38 | 7 | 0 | 0 | 0 | [[1]](https://github.com), [[4]](https://Bing), [[3]](https://com.linkedin.android) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIRuntime) | [**FastAIRuntime**](https://github.com/andrestubbe/FastAIRuntime) | 24 | 21 | 8 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastAIMCP) | [**FastAIMCP**](https://github.com/andrestubbe/FastAIMCP) | 17 | 12 | 24 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[4]](https://Bing), [[2]](https://linkedin.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastAIMCP) | [**FastAIMCP**](https://github.com/andrestubbe/FastAIMCP) | 17 | 12 | 24 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[4]](https://Bing), [[2]](https://linkedin.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIBot) | [**FastAIBot**](https://github.com/andrestubbe/FastAIBot) | 16 | 13 | 3 | 1 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIAgent) | [**FastAIAgent**](https://github.com/andrestubbe/FastAIAgent) | 54 | 37 | 33 | 9 | 1 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com), [[3]](https://com.linkedin.android) |
 | [🟠](https://jitpack.io/#andrestubbe/FastAIState) | [**FastAIState**](https://github.com/andrestubbe/FastAIState) | 20 | 16 | 10 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -140,7 +140,7 @@
 | | **/ 92 repos** | **4665** | **2901** | **1420** | **228** | **19** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [com.linkedin.android](https://com.linkedin.android), [4] [Bing](https://Bing), [5] [youtube.com](https://youtube.com), [6] [Google](https://Google)*
-<br>*(Automatisch aktualisiert: 26.08.2026, 18:03 Uhr)*
+<br>*(Automatisch aktualisiert: 26.08.2026, 18:57 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
