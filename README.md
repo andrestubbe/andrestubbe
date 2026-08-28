@@ -137,17 +137,27 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastTween) | [**FastTween**](https://github.com/andrestubbe/FastTween) | 42 | 22 | 13 | 5 | 1 | 0 | 0 | [[2]](https://linkedin.com), [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAnimation) | [**FastAnimation**](https://github.com/andrestubbe/FastAnimation) &#11088; | 253 | 121 | 93 | 6 | 1 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com), [[4]](https://Bing) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| &nbsp; | **📦 Other Modules** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [🟠](https://jitpack.io/#andrestubbe/FastCalendar) | [**FastCalendar**](https://github.com/andrestubbe/FastCalendar) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastContacts) | [**FastContacts**](https://github.com/andrestubbe/FastContacts) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastIntegrate) | [**FastIntegrate**](https://github.com/andrestubbe/FastIntegrate) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastMail) | [**FastMail**](https://github.com/andrestubbe/FastMail) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| &nbsp; | **💬 17. Messaging** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟠](https://jitpack.io/#andrestubbe/FastMessaging) | [**FastMessaging**](https://github.com/andrestubbe/FastMessaging) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | **✉️ 18. Email & Communication** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [🟠](https://jitpack.io/#andrestubbe/FastMail) | [**FastMail**](https://github.com/andrestubbe/FastMail) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | **📅 19. Calendar & Scheduling** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [🟠](https://jitpack.io/#andrestubbe/FastCalendar) | [**FastCalendar**](https://github.com/andrestubbe/FastCalendar) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | **🗒️ 20. Notes & Knowledge** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟠](https://jitpack.io/#andrestubbe/FastNotes) | [**FastNotes**](https://github.com/andrestubbe/FastNotes) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | **📇 21. Contacts & People** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [🟠](https://jitpack.io/#andrestubbe/FastContacts) | [**FastContacts**](https://github.com/andrestubbe/FastContacts) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | **🔄 22. Integration & Sidecar** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [🟠](https://jitpack.io/#andrestubbe/FastIntegrate) | [**FastIntegrate**](https://github.com/andrestubbe/FastIntegrate) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | | **/ 97 repos** | **4378** | **2786** | **1493** | **224** | **19** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [com.linkedin.android](https://com.linkedin.android), [4] [Bing](https://Bing), [5] [youtube.com](https://youtube.com), [6] [Google](https://Google)*
-<br>*(Automatisch aktualisiert: 28.08.2026, 16:53 Uhr)*
+<br>*(Automatisch aktualisiert: 28.08.2026, 17:09 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
