@@ -51,7 +51,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastFileSearch) | [**FastFileSearch**](https://github.com/andrestubbe/FastFileSearch) | 15 | 13 | 7 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastFileWatch) | [**FastFileWatch**](https://github.com/andrestubbe/FastFileWatch) | 18 | 16 | 7 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastFileScrape) | [**FastFileScrape**](https://github.com/andrestubbe/FastFileScrape) | 26 | 17 | 7 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastFileContentIndex) | [**FastFileContentIndex**](https://github.com/andrestubbe/FastFileContentIndex) &#11088; | 103 | 69 | 41 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastFileContentIndex) | [**FastFileContentIndex**](https://github.com/andrestubbe/FastFileContentIndex) &#11088; | 103 | 69 | 41 | 3 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastIO) | [**FastIO**](https://github.com/andrestubbe/FastIO) | 67 | 48 | 68 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastGLOB) | [**FastGLOB**](https://github.com/andrestubbe/FastGLOB) | 28 | 22 | 8 | 4 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastCompress) | [**FastCompress**](https://github.com/andrestubbe/FastCompress) | 41 | 31 | 31 | 4 | 0 | 0 | 0 | [[1]](https://github.com) |
@@ -140,7 +140,7 @@
 | | **/ 92 repos** | **4523** | **2853** | **1523** | **232** | **19** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [com.linkedin.android](https://com.linkedin.android), [4] [Bing](https://Bing), [5] [youtube.com](https://youtube.com), [6] [Google](https://Google)*
-<br>*(Automatisch aktualisiert: 28.08.2026, 11:59 Uhr)*
+<br>*(Automatisch aktualisiert: 28.08.2026, 12:06 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
