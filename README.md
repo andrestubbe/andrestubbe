@@ -194,5 +194,7 @@
 
 ---
 <p align="center">
-  [![Visitors](https://komarev.com/ghpvc/?username=andrestubbe&color=brightgreen&style=flat-square&label=VISITORS)](https://github.com/andrestubbe)
+  <a href="https://github.com/andrestubbe">
+    <img src="https://komarev.com/ghpvc/?username=andrestubbe&color=brightgreen&style=flat-square&label=VISITORS" alt="Visitors" />
+  </a>
 </p>
