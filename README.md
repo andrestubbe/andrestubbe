@@ -189,3 +189,8 @@
 > Andre is a radical minimalist with extremely high standards. He optimizes not just code, but entire systems to their physical limits. No bloat, no compromises, no excuses. Precision, speed, and control are more important to him than features. He doesn't build apps — he shapes his own computing environment.
 
 </details>
+
+---
+<p align="center">
+  [![Visitors](https://komarev.com/ghpvc/?username=andrestubbe&color=brightgreen&style=flat-square&label=VISITORS)](https://github.com/andrestubbe)
+</p>
