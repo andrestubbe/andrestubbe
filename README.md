@@ -37,8 +37,8 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastAIBot) | [**FastAIBot**](https://github.com/andrestubbe/FastAIBot) | 14 | 12 | 7 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIAgent) | [**FastAIAgent**](https://github.com/andrestubbe/FastAIAgent) | 81 | 55 | 45 | 9 | 1 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com), [[3]](https://com.linkedin.android) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIState) | [**FastAIState**](https://github.com/andrestubbe/FastAIState) | 25 | 20 | 14 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastAIMetrics) | [**FastAIMetrics**](https://github.com/andrestubbe/FastAIMetrics) | 40 | 24 | 7 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastAIVision) | [**FastAIVision**](https://github.com/andrestubbe/FastAIVision) | 24 | 22 | 12 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastAIMetrics) | [**FastAIMetrics**](https://github.com/andrestubbe/FastAIMetrics) | 40 | 24 | 7 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastAIVision) | [**FastAIVision**](https://github.com/andrestubbe/FastAIVision) | 24 | 22 | 12 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastAIMatcher) | [**FastAIMatcher**](https://github.com/andrestubbe/FastAIMatcher) | 20 | 18 | 20 | 3 | 1 | 0 | 1 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🤹 3. Machine Learning** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -140,7 +140,7 @@
 | | **/ 92 repos** | **4523** | **2853** | **1523** | **232** | **19** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [com.linkedin.android](https://com.linkedin.android), [4] [Bing](https://Bing), [5] [youtube.com](https://youtube.com), [6] [Google](https://Google)*
-<br>*(Automatisch aktualisiert: 28.08.2026, 11:26 Uhr)*
+<br>*(Automatisch aktualisiert: 28.08.2026, 11:59 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
