@@ -44,6 +44,7 @@
 | &nbsp; | **🤹 3. Learning** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟠](https://jitpack.io/#andrestubbe/FastDL) | [**FastDL**](https://github.com/andrestubbe/FastDL) | 32 | 27 | 6 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastML) | [**FastML**](https://github.com/andrestubbe/FastML) | 40 | 28 | 26 | 3 | 0 | 0 | 0 | [[1]](https://github.com), [[2]](https://linkedin.com) |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🛠️ 4. Tools** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟠](https://jitpack.io/#andrestubbe/FastMessaging) | [**FastMessaging**](https://github.com/andrestubbe/FastMessaging) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastMail) | [**FastMail**](https://github.com/andrestubbe/FastMail) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | [?] |
@@ -78,6 +79,7 @@
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🌐 7. Web** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastWebScrape) | [**FastWebScrape**](https://github.com/andrestubbe/FastWebScrape) | 87 | 49 | 20 | 4 | 0 | 0 | 0 | [[1]](https://github.com), [[4]](https://Bing) |
+| [🟢](https://jitpack.io/#andrestubbe/FastWebSpider) | [**FastWebSpider**](https://github.com/andrestubbe/FastWebSpider) | 12 | 10 | 4 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **💻 8. System** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastHardware) | [**FastHardware**](https://github.com/andrestubbe/FastHardware) | 15 | 13 | 0 | 0 | 0 | 0 | 0 | [?] |
