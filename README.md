@@ -1,4 +1,4 @@
-### ⚡ What is the FastJava Ecosystem? &nbsp; [![Visitors](https://komarev.com/ghpvc/?username=andrestubbe&color=brightgreen&style=flat-square&label=VISITORS)](https://github.com/andrestubbe)
+### ⚡ What is the FastJava Ecosystem?
 > I build the things I constantly need, but I build them right.<br>
 > I used to build them again and again, dreaming of doing it one last time.<br>
 > Built once, reusable everywhere. That is why the FastJava Ecosystem exists.<br>
