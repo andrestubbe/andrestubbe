@@ -138,7 +138,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) &#11088; | 97 | 51 | 30 | 6 | 0 | 0 | 0 | [[1]](https://github.com), [[5]](https://Bing) |
 | [🟢](https://jitpack.io/#andrestubbe/FastUI) | [**FastUI**](https://github.com/andrestubbe/FastUI) | 9 | 9 | 1 | 1 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastProportion) | [**FastProportion**](https://github.com/andrestubbe/FastProportion) | 13 | 7 | 2 | 2 | 0 | 0 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) | 22 | 15 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) | 22 | 15 | 1 | 1 | 0 | 0 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **📟 16. Terminal** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastANSI) | [**FastANSI**](https://github.com/andrestubbe/FastANSI) | 49 | 32 | 12 | 1 | 0 | 0 | 0 | [[1]](https://github.com), [[6]](https://youtube.com) |
@@ -156,7 +156,7 @@
 | | **/ 105 repos** | **3954** | **2614** | **1243** | **255** | **19** | | | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [linkedin.com](https://linkedin.com), [3] [com.linkedin.android](https://com.linkedin.android), [4] [Google](https://Google), [5] [Bing](https://Bing), [6] [youtube.com](https://youtube.com), [7] [kagi.com](https://kagi.com)*
-<br>*(Automatisch aktualisiert: 31.08.2026, 12:28 Uhr)*
+<br>*(Automatisch aktualisiert: 31.08.2026, 13:55 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
