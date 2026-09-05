@@ -13,7 +13,7 @@
 <!-- STATS_START -->
 | Jit | Repository | Version | Clones | C. Uniq | Views | V. Uniq | Stars | Referrers |
 |:---:|:---|:---:|---:|---:|---:|---:|---:|:---|
-| | &#128081; [**FastJava**](https://github.com/andrestubbe/FastJava) | `{"message":"Not Found","documentation_url":"https://docs.github.com/rest/releases/releases#get-the-latest-release","status":"404"}` | 88 | 42 | 21 | 4 | 2 | [[1]](https://github.com), [[3]](https://Bing) |
+| | &#128081; [**FastJava**](https://github.com/andrestubbe/FastJava) | - | 88 | 42 | 21 | 4 | 2 | [[1]](https://github.com), [[3]](https://Bing) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **📐 0. Structure** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastArchitecture) | [**FastArchitecture**](https://github.com/andrestubbe/FastArchitecture) | `0.1.0` | 45 | 21 | 38 | 2 | 0 | [[4]](https://linkedin.com), [[1]](https://github.com) |
@@ -48,8 +48,8 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastAISandbox) | [**FastAISandbox**](https://github.com/andrestubbe/FastAISandbox) | `0.1.0` | 42 | 23 | 3 | 1 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🤹 3. Learning** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [🟠](https://jitpack.io/#andrestubbe/FastDL) | [**FastDL**](https://github.com/andrestubbe/FastDL) | `{"message":"Not Found","documentation_url":"https://docs.github.com/rest/releases/releases#get-the-latest-release","status":"404"}` | 23 | 19 | 1 | 1 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastML) | [**FastML**](https://github.com/andrestubbe/FastML) | `{"message":"Not Found","documentation_url":"https://docs.github.com/rest/releases/releases#get-the-latest-release","status":"404"}` | 13 | 12 | 1 | 1 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastDL) | [**FastDL**](https://github.com/andrestubbe/FastDL) | - | 23 | 19 | 1 | 1 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastML) | [**FastML**](https://github.com/andrestubbe/FastML) | - | 13 | 12 | 1 | 1 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🛠️ 4. Tools** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastMessage) | [**FastMessage**](https://github.com/andrestubbe/FastMessage) &#11088; | `0.1.0` | 136 | 89 | 53 | 4 | 0 | [[1]](https://github.com) |
@@ -85,7 +85,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastHTML) | [**FastHTML**](https://github.com/andrestubbe/FastHTML) | `0.1.1` | 33 | 27 | 7 | 2 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🌐 7. Web** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [🟠](https://jitpack.io/#andrestubbe/FastWebScrape) | [**FastWebScrape**](https://github.com/andrestubbe/FastWebScrape) | `0.1.4` | 112 | 67 | 21 | 5 | 0 | [[1]](https://github.com), [[3]](https://Bing) |
+| [🟢](https://jitpack.io/#andrestubbe/FastWebScrape) | [**FastWebScrape**](https://github.com/andrestubbe/FastWebScrape) | `0.1.4` | 112 | 67 | 21 | 5 | 0 | [[1]](https://github.com), [[3]](https://Bing) |
 | [🟠](https://jitpack.io/#andrestubbe/FastWebSpider) | [**FastWebSpider**](https://github.com/andrestubbe/FastWebSpider) &#11088; | `0.1.4` | 144 | 66 | 29 | 7 | 0 | [[1]](https://github.com), [[3]](https://Bing), [[2]](https://Google) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **💻 8. System** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -112,7 +112,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastKeylogger) | [**FastKeylogger**](https://github.com/andrestubbe/FastKeylogger) | `0.1.2` | 57 | 27 | 16 | 4 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastMouse) | [**FastMouse**](https://github.com/andrestubbe/FastMouse) | `0.1.1` | 54 | 25 | 25 | 7 | 0 | [[1]](https://github.com), [[2]](https://Google) |
 | [🟢](https://jitpack.io/#andrestubbe/FastMouseLogger) | [**FastMouseLogger**](https://github.com/andrestubbe/FastMouseLogger) | `0.1.1` | 36 | 22 | 17 | 2 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastTouch) | [**FastTouch**](https://github.com/andrestubbe/FastTouch) | `{"message":"Not Found","documentation_url":"https://docs.github.com/rest/releases/releases#get-the-latest-release","status":"404"}` | 13 | 8 | 4 | 3 | 0 | [[2]](https://Google) |
+| [🟢](https://jitpack.io/#andrestubbe/FastTouch) | [**FastTouch**](https://github.com/andrestubbe/FastTouch) | `0.1.0` | 13 | 8 | 4 | 3 | 0 | [[2]](https://Google) |
 | [🟢](https://jitpack.io/#andrestubbe/FastStylus) | [**FastStylus**](https://github.com/andrestubbe/FastStylus) | `0.1.0` | 22 | 11 | 5 | 4 | 0 | [?] |
 | &#9203; | **FastGamepad** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -138,7 +138,7 @@
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🎨 14. Graphics** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | `0.1.1` | 103 | 39 | 26 | 5 | 0 | [[1]](https://github.com), [[3]](https://Bing) |
-| [🟠](https://jitpack.io/#andrestubbe/FastVulkan) | [**FastVulkan**](https://github.com/andrestubbe/FastVulkan) &#11088; | `{"message":"Not Found","documentation_url":"https://docs.github.com/rest/releases/releases#get-the-latest-release","status":"404"}` | 222 | 93 | 39 | 8 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastVulkan) | [**FastVulkan**](https://github.com/andrestubbe/FastVulkan) &#11088; | - | 222 | 93 | 39 | 8 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastImage) | [**FastImage**](https://github.com/andrestubbe/FastImage) | `0.1.2` | 55 | 27 | 5 | 1 | 1 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastGraphics) | [**FastGraphics**](https://github.com/andrestubbe/FastGraphics) | `0.1.0` | 40 | 25 | 4 | 2 | 2 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastOverlay) | [**FastOverlay**](https://github.com/andrestubbe/FastOverlay) | `0.1.0` | 9 | 8 | 1 | 1 | 0 | [?] |
@@ -161,7 +161,7 @@
 | [🟠](https://jitpack.io/#andrestubbe/FastConPTY) | [**FastConPTY**](https://github.com/andrestubbe/FastConPTY) | `0.1.0` | 22 | 18 | 3 | 2 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) | `0.1.11` | 37 | 36 | 4 | 4 | 0 | [[2]](https://Google), [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTerminal3D) | [**FastTerminal3D**](https://github.com/andrestubbe/FastTerminal3D) | `0.1.1` | 3 | 3 | 8 | 1 | 0 | [[3]](https://Bing), [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastTUI) | [**FastTUI**](https://github.com/andrestubbe/FastTUI) | `{"message":"Not Found","documentation_url":"https://docs.github.com/rest/releases/releases#get-the-latest-release","status":"404"}` | 15 | 15 | 2 | 2 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastTUI) | [**FastTUI**](https://github.com/andrestubbe/FastTUI) | `0.1.2` | 15 | 15 | 2 | 2 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🎬 17. Animation** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastDWM) | [**FastDWM**](https://github.com/andrestubbe/FastDWM) | `0.1.0` | 54 | 27 | 24 | 4 | 0 | [[1]](https://github.com) |
@@ -188,7 +188,7 @@
 | | **/ 108 (128) repos** | | **6628** | **3951** | **1361** | **340** | **19** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Google](https://Google), [3] [Bing](https://Bing), [4] [linkedin.com](https://linkedin.com), [5] [youtube.com](https://youtube.com), [6] [kagi.com](https://kagi.com), [7] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 05.09.2026, 11:28 Uhr)*
+<br>*(Automatisch aktualisiert: 05.09.2026, 11:39 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
