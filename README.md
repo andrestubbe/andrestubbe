@@ -21,7 +21,7 @@
 | &nbsp; | **⚡ 1. Native** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastCore) | [**FastCore**](https://github.com/andrestubbe/FastCore) | `0.1.0` | 40 | 25 | 14 | 5 | 1 | [[1]](https://github.com), [[5]](https://youtube.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastPointer) | [**FastPointer**](https://github.com/andrestubbe/FastPointer) | `0.1.1` | 23 | 19 | 4 | 3 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastMemory) | [**FastMemory**](https://github.com/andrestubbe/FastMemory) | `0.1.1` | 18 | 17 | 2 | 2 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastMemory) | [**FastMemory**](https://github.com/andrestubbe/FastMemory) | `0.1.1` | 18 | 17 | 2 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastSIMD) | [**FastSIMD**](https://github.com/andrestubbe/FastSIMD) | `0.1.3` | 19 | 19 | 3 | 3 | 0 | [[1]](https://github.com), [[6]](https://kagi.com), [[5]](https://youtube.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastSharedMemory) | [**FastSharedMemory**](https://github.com/andrestubbe/FastSharedMemory) | `0.1.2` | 12 | 12 | 1 | 1 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -128,7 +128,7 @@
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🔊 13. Audio** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioCapture) | [**FastAudioCapture**](https://github.com/andrestubbe/FastAudioCapture) | `0.1.1` | 26 | 16 | 6 | 3 | 0 | [[1]](https://github.com), [[3]](https://Bing) |
-| [🟢](https://jitpack.io/#andrestubbe/FastAudioPlayer) | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | `0.1.2` | 19 | 16 | 3 | 3 | 0 | [[6]](https://kagi.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastAudioPlayer) | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | `0.1.2` | 19 | 16 | 3 | 3 | 0 | [[6]](https://kagi.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioProcess) | [**FastAudioProcess**](https://github.com/andrestubbe/FastAudioProcess) | `0.1.4` | 98 | 51 | 20 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastVAD) | [**FastVAD**](https://github.com/andrestubbe/FastVAD) &#11088; | `0.1.0` | 145 | 91 | 28 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTurn) | [**FastTurn**](https://github.com/andrestubbe/FastTurn) | `0.1.0` | 29 | 18 | 5 | 3 | 0 | [[1]](https://github.com) |
@@ -188,7 +188,7 @@
 | | **/ 108 (128) repos** | | **6628** | **3951** | **1361** | **340** | **19** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Google](https://Google), [3] [Bing](https://Bing), [4] [linkedin.com](https://linkedin.com), [5] [youtube.com](https://youtube.com), [6] [kagi.com](https://kagi.com), [7] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 05.09.2026, 11:39 Uhr)*
+<br>*(Automatisch aktualisiert: 05.09.2026, 11:55 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
