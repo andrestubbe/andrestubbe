@@ -20,28 +20,28 @@
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **⚡ 1. Native** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastCore) | [**FastCore**](https://github.com/andrestubbe/FastCore) | `0.1.0` | 40 | 25 | 14 | 5 | 1 | [[1]](https://github.com), [[5]](https://youtube.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastPointer) | [**FastPointer**](https://github.com/andrestubbe/FastPointer) | `0.1.1` | 23 | 19 | 4 | 3 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastPointer) | [**FastPointer**](https://github.com/andrestubbe/FastPointer) | `0.1.1` | 21 | 17 | 4 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastMemory) | [**FastMemory**](https://github.com/andrestubbe/FastMemory) | `0.1.1` | 15 | 14 | 2 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastSIMD) | [**FastSIMD**](https://github.com/andrestubbe/FastSIMD) | `0.1.3` | 17 | 17 | 5 | 4 | 0 | [[1]](https://github.com), [[6]](https://kagi.com), [[5]](https://youtube.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastSharedMemory) | [**FastSharedMemory**](https://github.com/andrestubbe/FastSharedMemory) | `0.1.2` | 12 | 12 | 1 | 1 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🤖 2. AI** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [🟢](https://jitpack.io/#andrestubbe/FastAI) | [**FastAI**](https://github.com/andrestubbe/FastAI) &#11088; | `0.1.14` | 454 | 249 | 50 | 2 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastAI) | [**FastAI**](https://github.com/andrestubbe/FastAI) &#11088; | `0.1.14` | 455 | 250 | 50 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIModel) | [**FastAIModel**](https://github.com/andrestubbe/FastAIModel) | `v0.1.4` | 40 | 18 | 10 | 4 | 0 | [[1]](https://github.com), [[5]](https://youtube.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIMemory) | [**FastAIMemory**](https://github.com/andrestubbe/FastAIMemory) | `0.1.4` | 98 | 65 | 21 | 1 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastAIMemoryGraph) | [**FastAIMemoryGraph**](https://github.com/andrestubbe/FastAIMemoryGraph) | - | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIVectorDB) | [**FastAIVectorDB**](https://github.com/andrestubbe/FastAIVectorDB) | `0.1.4` | 41 | 31 | 9 | 3 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastAIGraph) | [**FastAIGraph**](https://github.com/andrestubbe/FastAIGraph) | `0.1.0` | 69 | 46 | 18 | 1 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastAIGraph) | [**FastAIGraph**](https://github.com/andrestubbe/FastAIGraph) | `0.1.0` | 69 | 46 | 18 | 1 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIRerank) | [**FastAIRerank**](https://github.com/andrestubbe/FastAIRerank) | `0.1.0` | 98 | 63 | 27 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIHybrid) | [**FastAIHybrid**](https://github.com/andrestubbe/FastAIHybrid) | `0.1.0` | 70 | 44 | 16 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIRag) | [**FastAIRag**](https://github.com/andrestubbe/FastAIRag) | `0.1.1` | 21 | 18 | 5 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIReasoner) | [**FastAIReasoner**](https://github.com/andrestubbe/FastAIReasoner) | `0.1.0` | 49 | 29 | 37 | 3 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastAIRuntime) | [**FastAIRuntime**](https://github.com/andrestubbe/FastAIRuntime) | `0.1.1` | 29 | 24 | 23 | 5 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastAIRuntime) | [**FastAIRuntime**](https://github.com/andrestubbe/FastAIRuntime) | `0.1.1` | 29 | 24 | 23 | 5 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIMCP) | [**FastAIMCP**](https://github.com/andrestubbe/FastAIMCP) | `0.1.1` | 47 | 29 | 22 | 2 | 0 | [[1]](https://github.com), [[3]](https://Bing), [[4]](https://linkedin.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIBot) | [**FastAIBot**](https://github.com/andrestubbe/FastAIBot) | `0.1.2` | 28 | 21 | 10 | 4 | 0 | [[1]](https://github.com), [[2]](https://Google) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIAgent) | [**FastAIAgent**](https://github.com/andrestubbe/FastAIAgent) | `0.1.7` | 60 | 43 | 28 | 8 | 1 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIState) | [**FastAIState**](https://github.com/andrestubbe/FastAIState) | `0.1.2` | 62 | 40 | 17 | 3 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastAIMetrics) | [**FastAIMetrics**](https://github.com/andrestubbe/FastAIMetrics) | `0.1.1` | 79 | 45 | 9 | 3 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastAIMetrics) | [**FastAIMetrics**](https://github.com/andrestubbe/FastAIMetrics) | `0.1.1` | 79 | 45 | 9 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIVision) | [**FastAIVision**](https://github.com/andrestubbe/FastAIVision) | `0.1.1` | 76 | 51 | 18 | 3 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastAIMatcher) | [**FastAIMatcher**](https://github.com/andrestubbe/FastAIMatcher) | `0.1.2` | 51 | 35 | 26 | 6 | 1 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIGuard) | [**FastAIGuard**](https://github.com/andrestubbe/FastAIGuard) | `0.1.0` | 30 | 21 | 12 | 2 | 0 | [[1]](https://github.com) |
@@ -123,7 +123,7 @@
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **👁️ 12. Vision** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastScreen) | [**FastScreen**](https://github.com/andrestubbe/FastScreen) &#11088; | `0.1.3` | 209 | 68 | 48 | 8 | 1 | [[1]](https://github.com), [[3]](https://Bing) |
-| [🟠](https://jitpack.io/#andrestubbe/FastScreenCapture) | [**FastScreenCapture**](https://github.com/andrestubbe/FastScreenCapture) | `0.1.0` | 49 | 23 | 6 | 1 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastScreenCapture) | [**FastScreenCapture**](https://github.com/andrestubbe/FastScreenCapture) | `v0.1.1` | 49 | 23 | 6 | 1 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastCamera) | [**FastCamera**](https://github.com/andrestubbe/FastCamera) | `0.1.1` | 65 | 29 | 10 | 4 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastOCR) | [**FastOCR**](https://github.com/andrestubbe/FastOCR) | `0.1.1` | 15 | 14 | 38 | 20 | 0 | [[2]](https://Google), [[1]](https://github.com) |
 | &#9203; | **FastImageSearch** | - | - | - | - | - | - | - |
@@ -147,7 +147,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastGhostMouse) | [**FastGhostMouse**](https://github.com/andrestubbe/FastGhostMouse) | `0.1.0` | 25 | 19 | 4 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastSoftware3D) | [**FastSoftware3D**](https://github.com/andrestubbe/FastSoftware3D) | `0.1.0` | 10 | 10 | 2 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastThumb) | [**FastThumb**](https://github.com/andrestubbe/FastThumb) | `0.1.1` | 19 | 17 | 13 | 3 | 0 | [[1]](https://github.com) |
-| [🟠](https://jitpack.io/#andrestubbe/FastPreview) | [**FastPreview**](https://github.com/andrestubbe/FastPreview) | `0.1.1` | 37 | 24 | 7 | 2 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastPreview) | [**FastPreview**](https://github.com/andrestubbe/FastPreview) | `0.1.1` | 39 | 25 | 7 | 2 | 0 | [[1]](https://github.com) |
 | &#9203; | **FastImageView** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🪟 15. Display** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -158,7 +158,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) | `0.1.1` | 13 | 10 | 3 | 3 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **📟 16. Terminal** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [🟢](https://jitpack.io/#andrestubbe/FastANSI) | [**FastANSI**](https://github.com/andrestubbe/FastANSI) | `0.1.3` | 34 | 26 | 5 | 3 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastANSI) | [**FastANSI**](https://github.com/andrestubbe/FastANSI) | `0.1.3` | 33 | 25 | 5 | 3 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastASCII) | [**FastASCII**](https://github.com/andrestubbe/FastASCII) | `0.1.0` | 36 | 26 | 9 | 2 | 3 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastConPTY) | [**FastConPTY**](https://github.com/andrestubbe/FastConPTY) | `0.1.0` | 22 | 18 | 3 | 2 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) | `0.1.11` | 39 | 37 | 4 | 4 | 0 | [[2]](https://Google), [[1]](https://github.com) |
@@ -187,10 +187,10 @@
 | &#9203; | **FastReplay** | - | - | - | - | - | - | - |
 | &#9203; | **FastTest** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| | **/ 110 (130) repos** | | **7031** | **4081** | **1487** | **351** | **19** | |
+| | **/ 110 (130) repos** | | **7031** | **4080** | **1487** | **351** | **19** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Google](https://Google), [3] [Bing](https://Bing), [4] [linkedin.com](https://linkedin.com), [5] [youtube.com](https://youtube.com), [6] [kagi.com](https://kagi.com), [7] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 06.09.2026, 13:58 Uhr)*
+<br>*(Automatisch aktualisiert: 06.09.2026, 17:06 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
