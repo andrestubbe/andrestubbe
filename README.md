@@ -28,7 +28,7 @@
 | &nbsp; | **🤖 2. AI** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastAI) | [**FastAI**](https://github.com/andrestubbe/FastAI) &#11088; | `0.1.14` | 404 | 214 | 13 | 6 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIModel) | [**FastAIModel**](https://github.com/andrestubbe/FastAIModel) | `v0.1.4` | 29 | 20 | 8 | 2 | 0 | [[1]](https://github.com), [[3]](https://youtube.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastAIMemory) | [**FastAIMemory**](https://github.com/andrestubbe/FastAIMemory) | `0.1.4` | 40 | 26 | 1 | 1 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastAIMemory) | [**FastAIMemory**](https://github.com/andrestubbe/FastAIMemory) | `0.1.4` | 40 | 26 | 1 | 1 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastAIMemoryGraph) | [**FastAIMemoryGraph**](https://github.com/andrestubbe/FastAIMemoryGraph) | - | 40 | 20 | 14 | 1 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIVectorDB) | [**FastAIVectorDB**](https://github.com/andrestubbe/FastAIVectorDB) | `0.1.4` | 43 | 31 | 6 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAIGraph) | [**FastAIGraph**](https://github.com/andrestubbe/FastAIGraph) | `0.1.0` | 52 | 30 | 2 | 1 | 0 | [[1]](https://github.com) |
@@ -143,7 +143,7 @@
 | [🟠](https://jitpack.io/#andrestubbe/FastVulkan) | [**FastVulkan**](https://github.com/andrestubbe/FastVulkan) &#11088; | - | 263 | 122 | 47 | 8 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastImage) | [**FastImage**](https://github.com/andrestubbe/FastImage) &#11088; | `0.1.4` | 158 | 60 | 27 | 2 | 1 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastGraphics) | [**FastGraphics**](https://github.com/andrestubbe/FastGraphics) | `0.1.0` | 50 | 31 | 7 | 4 | 2 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastOverlay) | [**FastOverlay**](https://github.com/andrestubbe/FastOverlay) | `0.1.0` | 9 | 8 | 4 | 3 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastOverlay) | [**FastOverlay**](https://github.com/andrestubbe/FastOverlay) | `0.1.0` | 9 | 8 | 4 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastGhostMouse) | [**FastGhostMouse**](https://github.com/andrestubbe/FastGhostMouse) | `0.1.0` | 25 | 18 | 4 | 4 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastSoftware3D) | [**FastSoftware3D**](https://github.com/andrestubbe/FastSoftware3D) | `0.1.0` | 16 | 14 | 2 | 2 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastThumb) | [**FastThumb**](https://github.com/andrestubbe/FastThumb) | `0.1.1` | 19 | 15 | 3 | 3 | 0 | [?] |
@@ -190,7 +190,7 @@
 | | **/ 117 (130) repos** | | **7888** | **4367** | **1263** | **361** | **19** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Google](https://Google), [3] [youtube.com](https://youtube.com), [4] [Bing](https://Bing), [5] [linkedin.com](https://linkedin.com), [6] [kagi.com](https://kagi.com), [7] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 11.09.2026, 10:15 Uhr)*
+<br>*(Automatisch aktualisiert: 11.09.2026, 11:19 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
