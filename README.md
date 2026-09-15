@@ -131,7 +131,7 @@
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🔊 13. Audio** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioCapture) | [**FastAudioCapture**](https://github.com/andrestubbe/FastAudioCapture) | `0.1.1` | 23 | 18 | 2 | 2 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastAudioPlayer) | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | `0.1.2` | 30 | 27 | 3 | 3 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastAudioPlayer) | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | `0.1.2` | 30 | 27 | 3 | 3 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioProcess) | [**FastAudioProcess**](https://github.com/andrestubbe/FastAudioProcess) | `0.1.4` | 26 | 23 | 1 | 1 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastVAD) | [**FastVAD**](https://github.com/andrestubbe/FastVAD) | `0.1.0` | 70 | 40 | 4 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTurn) | [**FastTurn**](https://github.com/andrestubbe/FastTurn) | `0.1.0` | 28 | 18 | 3 | 2 | 0 | [?] |
@@ -154,7 +154,7 @@
 | &nbsp; | **🪟 15. Display** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastDisplay) | [**FastDisplay**](https://github.com/andrestubbe/FastDisplay) | `0.1.1` | 45 | 26 | 29 | 6 | 1 | [[1]](https://github.com), [[3]](https://Bing) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) | `0.1.4` | 46 | 21 | 7 | 5 | 0 | [[1]](https://github.com), [[9]](https://DuckDuckGo) |
-| [🟠](https://jitpack.io/#andrestubbe/FastUI) | [**FastUI**](https://github.com/andrestubbe/FastUI) | `0.1.0` | 28 | 17 | 1 | 1 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastUI) | [**FastUI**](https://github.com/andrestubbe/FastUI) | `0.1.0` | 28 | 17 | 1 | 1 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastProportion) | [**FastProportion**](https://github.com/andrestubbe/FastProportion) | `0.1.0` | 18 | 11 | 1 | 1 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) | `0.1.1` | 11 | 9 | 2 | 2 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -191,7 +191,7 @@
 | | **/ 117 (131) repos** | | **6139** | **3388** | **1307** | **383** | **20** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [jxxy.net](https://jxxy.net), [3] [Bing](https://Bing), [4] [andrestubbe.github.io](https://andrestubbe.github.io), [5] [linkedin.com](https://linkedin.com), [6] [github-com.btglss.net](https://github-com.btglss.net), [7] [youtube.com](https://youtube.com), [8] [Google](https://Google), [9] [DuckDuckGo](https://DuckDuckGo), [10] [search.brave.com](https://search.brave.com), [11] [kagi.com](https://kagi.com)*
-<br>*(Automatisch aktualisiert: 15.09.2026, 08:14 Uhr)*
+<br>*(Automatisch aktualisiert: 15.09.2026, 10:07 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
