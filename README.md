@@ -153,6 +153,7 @@
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🪟 15. Display** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastDisplay) | [**FastDisplay**](https://github.com/andrestubbe/FastDisplay) | `0.1.1` | 59 | 25 | 33 | 5 | 1 | [[1]](https://github.com), [[2]](https://Bing) |
+| [🟠](https://jitpack.io/#andrestubbe/FastMonitor) | [**FastMonitor**](https://github.com/andrestubbe/FastMonitor) | - | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) | `0.1.6` | 37 | 18 | 7 | 2 | 0 | [[9]](https://DuckDuckGo), [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastUI) | [**FastUI**](https://github.com/andrestubbe/FastUI) | `0.1.0` | 30 | 23 | 3 | 2 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastProportion) | [**FastProportion**](https://github.com/andrestubbe/FastProportion) | `0.1.0` | 44 | 24 | 6 | 2 | 0 | [[1]](https://github.com) |
@@ -188,14 +189,10 @@
 | &#9203; | **FastReplay** | - | - | - | - | - | - | - |
 | &#9203; | **FastTest** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| &nbsp; | **📦 Other Modules** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [🟠](https://jitpack.io/#andrestubbe/FastDirectX) | [**FastDirectX**](https://github.com/andrestubbe/FastDirectX) | `0.1.0` | 0 | 0 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastMonitor) | [**FastMonitor**](https://github.com/andrestubbe/FastMonitor) | - | 0 | 0 | 0 | 0 | 0 | [?] |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| | **/ 119 (131) repos** | | **5328** | **2846** | **1416** | **359** | **22** | |
+| | **/ 119 (132) repos** | | **5328** | **2846** | **1416** | **359** | **22** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [jxxy.net](https://jxxy.net), [4] [andrestubbe.github.io](https://andrestubbe.github.io), [5] [Google](https://Google), [6] [kagi.com](https://kagi.com), [7] [linkedin.com](https://linkedin.com), [8] [github-com.btglss.net](https://github-com.btglss.net), [9] [DuckDuckGo](https://DuckDuckGo), [10] [youtube.com](https://youtube.com), [11] [yandex.ru](https://yandex.ru)*
-<br>*(Automatisch aktualisiert: 27.09.2026, 13:04 Uhr)*
+<br>*(Automatisch aktualisiert: 27.09.2026, 13:10 Uhr)*
 <!-- STATS_END -->
 
 ### 🤖 CREAM Traffic (Last 14 Days)
