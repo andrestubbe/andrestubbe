@@ -160,9 +160,10 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastDisplay) | [**FastDisplay**](https://github.com/andrestubbe/FastDisplay) | `0.1.1` | 7 | 6 | 3 | 1 | 1 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastMonitor) | [**FastMonitor**](https://github.com/andrestubbe/FastMonitor) &#11088; | `0.1.0` | 43 | 27 | 13 | 4 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) &#11088; | `0.1.9` | 296 | 130 | 49 | 2 | 0 | [[2]](https://Bing), [[1]](https://github.com), [[4]](https://DuckDuckGo) |
-| [🟢](https://jitpack.io/#andrestubbe/FastUI) | [**FastUI**](https://github.com/andrestubbe/FastUI) | `0.1.0` | 26 | 17 | 2 | 2 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastGUI) | [**FastGUI**](https://github.com/andrestubbe/FastGUI) | `0.1.1` | 26 | 17 | 2 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastProportion) | [**FastProportion**](https://github.com/andrestubbe/FastProportion) | `0.1.0` | 20 | 8 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) | `0.1.1` | 7 | 7 | 5 | 1 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastLayout) | [**FastLayout**](https://github.com/andrestubbe/FastLayout) | `0.1.0` | 8 | 8 | 3 | 1 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **📟 16. Terminal** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastANSI) | [**FastANSI**](https://github.com/andrestubbe/FastANSI) | `0.1.3` | 26 | 19 | 2 | 2 | 0 | [[1]](https://github.com) |
@@ -171,7 +172,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) | `0.1.12` | 42 | 30 | 5 | 2 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTerminal3D) | [**FastTerminal3D**](https://github.com/andrestubbe/FastTerminal3D) | `0.1.1` | 43 | 33 | 1 | 1 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTUI) | [**FastTUI**](https://github.com/andrestubbe/FastTUI) | `0.1.2` | 22 | 19 | 2 | 2 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastCLICommand) | [**FastCLICommand**](https://github.com/andrestubbe/FastCLICommand) &#11088; | `v0.1.2` | 124 | 67 | 24 | 1 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastCLICommand) | [**FastCLICommand**](https://github.com/andrestubbe/FastCLICommand) &#11088; | `0.1.2` | 124 | 67 | 24 | 1 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🎬 17. Animation** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastDWM) | [**FastDWM**](https://github.com/andrestubbe/FastDWM) | `0.1.0` | 9 | 6 | 5 | 1 | 0 | [[1]](https://github.com) |
