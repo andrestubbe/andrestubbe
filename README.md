@@ -95,6 +95,7 @@
 | [🟠](https://jitpack.io/#andrestubbe/FastEnviroment) | [**FastEnviroment**](https://github.com/andrestubbe/FastEnviroment) &#11088; | `0.1.1` | 247 | 134 | 22 | 4 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastClipboard) | [**FastClipboard**](https://github.com/andrestubbe/FastClipboard) | `v1.0` | 10 | 8 | 4 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastNotification) | [**FastNotification**](https://github.com/andrestubbe/FastNotification) | `0.1.0` | 7 | 7 | 4 | 3 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastDialog) | [**FastDialog**](https://github.com/andrestubbe/FastDialog) &#11088; | `0.1.0` | 60 | 31 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastDaemon) | [**FastDaemon**](https://github.com/andrestubbe/FastDaemon) | `0.1.0` | 26 | 17 | 5 | 1 | 0 | [[1]](https://github.com) |
 | &#9203; | **FastProcess** | - | - | - | - | - | - | - |
 | &#9203; | **FastProcessWatch** | - | - | - | - | - | - | - |
@@ -160,9 +161,10 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastDisplay) | [**FastDisplay**](https://github.com/andrestubbe/FastDisplay) | `0.1.2` | 27 | 15 | 15 | 1 | 1 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastMonitor) | [**FastMonitor**](https://github.com/andrestubbe/FastMonitor) | `0.1.0` | 29 | 19 | 13 | 4 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) &#11088; | `0.1.9` | 457 | 184 | 55 | 2 | 0 | [[2]](https://Bing), [[1]](https://github.com), [[4]](https://DuckDuckGo) |
+| [🟢](https://jitpack.io/#andrestubbe/FastGUI) | [**FastGUI**](https://github.com/andrestubbe/FastGUI) | `0.1.1` | 19 | 14 | 3 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastProportion) | [**FastProportion**](https://github.com/andrestubbe/FastProportion) | `0.1.0` | 19 | 9 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) | `0.1.1` | 8 | 8 | 5 | 1 | 0 | [[1]](https://github.com) |
-| &#9203; | **FastUI** | - | - | - | - | - | - | - |
+| [🟢](https://jitpack.io/#andrestubbe/FastLayout) | [**FastLayout**](https://github.com/andrestubbe/FastLayout) &#11088; | `0.1.0` | 46 | 24 | 0 | 0 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **📟 16. Terminal** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastANSI) | [**FastANSI**](https://github.com/andrestubbe/FastANSI) | `0.1.3` | 28 | 21 | 1 | 1 | 0 | [[1]](https://github.com) |
@@ -194,11 +196,6 @@
 | &#9203; | **FastWatch** | - | - | - | - | - | - | - |
 | &#9203; | **FastReplay** | - | - | - | - | - | - | - |
 | &#9203; | **FastTest** | - | - | - | - | - | - | - |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| &nbsp; | **📦 Other Modules** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [🟠](https://jitpack.io/#andrestubbe/FastDialog) | [**FastDialog**](https://github.com/andrestubbe/FastDialog) &#11088; | - | 60 | 31 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastGUI) | [**FastGUI**](https://github.com/andrestubbe/FastGUI) | `0.1.0` | 19 | 14 | 3 | 2 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastLayout) | [**FastLayout**](https://github.com/andrestubbe/FastLayout) &#11088; | `0.1.0` | 46 | 24 | 0 | 0 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | | **/ 126 (138) repos** | | **2566** | **1693** | **438** | **164** | **24** | |
 
