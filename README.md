@@ -85,7 +85,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastTokenize) | [**FastTokenize**](https://github.com/andrestubbe/FastTokenize) | `0.1.1` | 5 | 5 | 5 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastRegex) | [**FastRegex**](https://github.com/andrestubbe/FastRegex) | `0.1.1` | 30 | 15 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastHTML) | [**FastHTML**](https://github.com/andrestubbe/FastHTML) | `0.1.1` | 6 | 6 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastLanguageDetector) | [**FastLanguageDetector**](https://github.com/andrestubbe/FastLanguageDetector) | - | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastLanguageDetector) | [**FastLanguageDetector**](https://github.com/andrestubbe/FastLanguageDetector) | `0.1.0` | 0 | 0 | 0 | 0 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🌐 7. Web** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastWebScrape) | [**FastWebScrape**](https://github.com/andrestubbe/FastWebScrape) | `0.1.4` | 9 | 9 | 0 | 0 | 0 | [?] |
@@ -164,7 +164,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastTheme) | [**FastTheme**](https://github.com/andrestubbe/FastTheme) &#11088; | `0.1.9` | 546 | 208 | 55 | 2 | 0 | [[2]](https://Bing), [[1]](https://github.com), [[4]](https://DuckDuckGo) |
 | [🟠](https://jitpack.io/#andrestubbe/FastGUI) | [**FastGUI**](https://github.com/andrestubbe/FastGUI) | `0.1.0` | 21 | 14 | 3 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastProportion) | [**FastProportion**](https://github.com/andrestubbe/FastProportion) | `0.1.0` | 17 | 9 | 0 | 0 | 0 | [?] |
-| [🟢](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) | `0.1.1` | 9 | 9 | 5 | 1 | 0 | [[1]](https://github.com) |
+| [🟠](https://jitpack.io/#andrestubbe/FastGrid) | [**FastGrid**](https://github.com/andrestubbe/FastGrid) | `0.1.1` | 9 | 9 | 5 | 1 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastLayout) | [**FastLayout**](https://github.com/andrestubbe/FastLayout) &#11088; | `0.1.0` | 59 | 32 | 0 | 0 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **📟 16. Terminal** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -201,7 +201,7 @@
 | | **/ 127 (141) repos** | | **2765** | **1778** | **428** | **163** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 17.10.2026, 18:05 Uhr)*
+<br>*(Automatisch aktualisiert: 17.10.2026, 18:14 Uhr)*
 <!-- STATS_END -->
 
 <details>
