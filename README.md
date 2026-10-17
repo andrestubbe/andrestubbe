@@ -85,6 +85,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastTokenize) | [**FastTokenize**](https://github.com/andrestubbe/FastTokenize) | `0.1.1` | 5 | 5 | 5 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastRegex) | [**FastRegex**](https://github.com/andrestubbe/FastRegex) | `0.1.1` | 30 | 15 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastHTML) | [**FastHTML**](https://github.com/andrestubbe/FastHTML) | `0.1.1` | 6 | 6 | 0 | 0 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastLanguageDetector) | [**FastLanguageDetector**](https://github.com/andrestubbe/FastLanguageDetector) | - | 0 | 0 | 0 | 0 | 0 | [?] |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🌐 7. Web** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastWebScrape) | [**FastWebScrape**](https://github.com/andrestubbe/FastWebScrape) | `0.1.4` | 9 | 9 | 0 | 0 | 0 | [?] |
@@ -197,10 +198,10 @@
 | &#9203; | **FastReplay** | - | - | - | - | - | - | - |
 | &#9203; | **FastTest** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| | **/ 127 (140) repos** | | **2765** | **1778** | **428** | **163** | **24** | |
+| | **/ 127 (141) repos** | | **2765** | **1778** | **428** | **163** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 17.10.2026, 14:23 Uhr)*
+<br>*(Automatisch aktualisiert: 17.10.2026, 14:36 Uhr)*
 <!-- STATS_END -->
 
 <details>
