@@ -128,7 +128,7 @@
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **👁️ 12. Vision** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastScreen) | [**FastScreen**](https://github.com/andrestubbe/FastScreen) | `0.1.5` | 9 | 8 | 8 | 5 | 3 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastScreenCapture) | [**FastScreenCapture**](https://github.com/andrestubbe/FastScreenCapture) | `v0.1.1` | 7 | 7 | 1 | 1 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastScreenCapture) | [**FastScreenCapture**](https://github.com/andrestubbe/FastScreenCapture) | `0.1.1` | 7 | 7 | 1 | 1 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastCamera) | [**FastCamera**](https://github.com/andrestubbe/FastCamera) | `0.1.1` | 5 | 5 | 1 | 1 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastVideoStream) | [**FastVideoStream**](https://github.com/andrestubbe/FastVideoStream) | `0.1.1` | 9 | 7 | 1 | 1 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastOCR) | [**FastOCR**](https://github.com/andrestubbe/FastOCR) | `0.1.2` | 25 | 17 | 25 | 19 | 1 | [[3]](https://Google), [[1]](https://github.com), [[2]](https://Bing) |
@@ -201,7 +201,7 @@
 | | **/ 127 (141) repos** | | **2765** | **1778** | **428** | **163** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 17.10.2026, 18:21 Uhr)*
+<br>*(Automatisch aktualisiert: 17.10.2026, 18:40 Uhr)*
 <!-- STATS_END -->
 
 <details>
