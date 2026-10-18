@@ -174,7 +174,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastTerminal) | [**FastTerminal**](https://github.com/andrestubbe/FastTerminal) | `0.1.12` | 39 | 27 | 5 | 2 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTerminal3D) | [**FastTerminal3D**](https://github.com/andrestubbe/FastTerminal3D) | `0.1.1` | 33 | 26 | 1 | 1 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastTUI) | [**FastTUI**](https://github.com/andrestubbe/FastTUI) | `0.1.2` | 11 | 11 | 2 | 2 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastCLICommand) | [**FastCLICommand**](https://github.com/andrestubbe/FastCLICommand) &#11088; | `0.1.2` | 128 | 71 | 26 | 1 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastCLICommand) | [**FastCLICommand**](https://github.com/andrestubbe/FastCLICommand) &#11088; | `0.1.3` | 128 | 71 | 26 | 1 | 0 | [[1]](https://github.com) |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🎬 17. Animation** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastDWM) | [**FastDWM**](https://github.com/andrestubbe/FastDWM) | `0.1.0` | 5 | 5 | 5 | 1 | 0 | [[1]](https://github.com) |
@@ -201,7 +201,7 @@
 | | **/ 127 (141) repos** | | **2831** | **1783** | **422** | **157** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 18.10.2026, 19:25 Uhr)*
+<br>*(Automatisch aktualisiert: 18.10.2026, 23:01 Uhr)*
 <!-- STATS_END -->
 
 <details>
