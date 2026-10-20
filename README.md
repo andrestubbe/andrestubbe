@@ -95,6 +95,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastHardware) | [**FastHardware**](https://github.com/andrestubbe/FastHardware) | `0.1.1` | 12 | 12 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastEnviroment) | [**FastEnviroment**](https://github.com/andrestubbe/FastEnviroment) &#11088; | `0.1.1` | 87 | 53 | 9 | 2 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastClipboard) | [**FastClipboard**](https://github.com/andrestubbe/FastClipboard) | `0.1.0` | 36 | 23 | 6 | 1 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastCursor) | [**FastCursor**](https://github.com/andrestubbe/FastCursor) | `0.1.0` | 0 | 0 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastNotification) | [**FastNotification**](https://github.com/andrestubbe/FastNotification) | `0.1.0` | 7 | 7 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastDialog) | [**FastDialog**](https://github.com/andrestubbe/FastDialog) &#11088; | - | 124 | 62 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastDaemon) | [**FastDaemon**](https://github.com/andrestubbe/FastDaemon) | `0.1.0` | 30 | 21 | 5 | 1 | 0 | [[1]](https://github.com) |
@@ -198,10 +199,10 @@
 | &#9203; | **FastReplay** | - | - | - | - | - | - | - |
 | &#9203; | **FastTest** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| | **/ 128 (141) repos** | | **3105** | **1910** | **381** | **146** | **24** | |
+| | **/ 128 (142) repos** | | **3105** | **1910** | **381** | **146** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 20.10.2026, 11:18 Uhr)*
+<br>*(Automatisch aktualisiert: 20.10.2026, 11:31 Uhr)*
 <!-- STATS_END -->
 
 <details>
