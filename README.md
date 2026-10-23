@@ -199,10 +199,14 @@
 | &#9203; | **FastReplay** | - | - | - | - | - | - | - |
 | &#9203; | **FastTest** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| | **/ 129 (142) repos** | | **3325** | **2038** | **318** | **124** | **24** | |
+| &nbsp; | **📦 Other Modules** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [🟠](https://jitpack.io/#andrestubbe/FastDirectWrite) | [**FastDirectWrite**](https://github.com/andrestubbe/FastDirectWrite) | `0.1.0` | 0 | 0 | 0 | 0 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastVoice) | [**FastVoice**](https://github.com/andrestubbe/FastVoice) | - | 0 | 0 | 0 | 0 | 0 | [?] |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| | **/ 130 (142) repos** | | **3325** | **2038** | **318** | **124** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo)*
-<br>*(Automatisch aktualisiert: 23.10.2026, 09:21 Uhr)*
+<br>*(Automatisch aktualisiert: 23.10.2026, 12:58 Uhr)*
 <!-- STATS_END -->
 
 <details>
