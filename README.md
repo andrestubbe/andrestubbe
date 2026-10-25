@@ -136,7 +136,7 @@
 | &#9203; | **FastImageSearch** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | **🔊 13. Audio** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [🟢](https://jitpack.io/#andrestubbe/FastAudioCapture) | [**FastAudioCapture**](https://github.com/andrestubbe/FastAudioCapture) | `0.1.1` | 12 | 10 | 1 | 1 | 0 | [[1]](https://github.com) |
+| [🟢](https://jitpack.io/#andrestubbe/FastAudioCapture) | [**FastAudioCapture**](https://github.com/andrestubbe/FastAudioCapture) | `0.1.1` | 6 | 6 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioPlayer) | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | `0.1.2` | 8 | 8 | 2 | 1 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioProcess) | [**FastAudioProcess**](https://github.com/andrestubbe/FastAudioProcess) | `0.1.6` | 53 | 33 | 19 | 2 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastVAD) | [**FastVAD**](https://github.com/andrestubbe/FastVAD) | `0.1.0` | 10 | 10 | 1 | 1 | 0 | [[1]](https://github.com) |
@@ -150,7 +150,7 @@
 | &nbsp; | **🎨 14. Graphics** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastWindow) | [**FastWindow**](https://github.com/andrestubbe/FastWindow) | `0.1.2` | 34 | 24 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastDirectX) | [**FastDirectX**](https://github.com/andrestubbe/FastDirectX) | `0.1.0` | 4 | 4 | 0 | 0 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastDirectWrite) | [**FastDirectWrite**](https://github.com/andrestubbe/FastDirectWrite) | `0.1.0` | 53 | 30 | 0 | 0 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastDirectWrite) | [**FastDirectWrite**](https://github.com/andrestubbe/FastDirectWrite) | `0.1.0` | 54 | 31 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastVulkan) | [**FastVulkan**](https://github.com/andrestubbe/FastVulkan) | `0.1.0` | 16 | 12 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastImage) | [**FastImage**](https://github.com/andrestubbe/FastImage) | `0.1.4` | 10 | 10 | 1 | 1 | 1 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastGraphics) | [**FastGraphics**](https://github.com/andrestubbe/FastGraphics) | `0.1.0` | 7 | 7 | 1 | 1 | 2 | [?] |
@@ -201,10 +201,10 @@
 | &#9203; | **FastReplay** | - | - | - | - | - | - | - |
 | &#9203; | **FastTest** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| | **/ 130 (144) repos** | | **2944** | **1897** | **235** | **106** | **24** | |
+| | **/ 130 (144) repos** | | **2939** | **1894** | **234** | **105** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo), [5] [ecosia.org](https://ecosia.org), [6] [yandex.ru](https://yandex.ru)*
-<br>*(Automatisch aktualisiert: 25.10.2026, 09:56 Uhr)*
+<br>*(Automatisch aktualisiert: 25.10.2026, 18:58 Uhr)*
 <!-- STATS_END -->
 
 <details>
