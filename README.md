@@ -138,7 +138,7 @@
 | &nbsp; | **🔊 13. Audio** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioCapture) | [**FastAudioCapture**](https://github.com/andrestubbe/FastAudioCapture) | `0.1.1` | 6 | 6 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastAudioPlayer) | [**FastAudioPlayer**](https://github.com/andrestubbe/FastAudioPlayer) | `0.1.2` | 8 | 8 | 2 | 1 | 0 | [[1]](https://github.com) |
-| [🟢](https://jitpack.io/#andrestubbe/FastAudioProcess) | [**FastAudioProcess**](https://github.com/andrestubbe/FastAudioProcess) | `0.1.6` | 53 | 33 | 19 | 2 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastAudioProcess) | [**FastAudioProcess**](https://github.com/andrestubbe/FastAudioProcess) | `0.1.7` | 53 | 33 | 19 | 2 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastVAD) | [**FastVAD**](https://github.com/andrestubbe/FastVAD) | `0.1.0` | 10 | 10 | 1 | 1 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastTurn) | [**FastTurn**](https://github.com/andrestubbe/FastTurn) | `0.1.0` | 8 | 8 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastTTS) | [**FastTTS**](https://github.com/andrestubbe/FastTTS) &#11088; | `0.1.8` | 334 | 112 | 18 | 6 | 1 | [[1]](https://github.com) |
@@ -204,7 +204,7 @@
 | | **/ 130 (144) repos** | | **2939** | **1894** | **234** | **105** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo), [5] [ecosia.org](https://ecosia.org), [6] [yandex.ru](https://yandex.ru)*
-<br>*(Automatisch aktualisiert: 25.10.2026, 23:20 Uhr)*
+<br>*(Automatisch aktualisiert: 25.10.2026, 23:27 Uhr)*
 <!-- STATS_END -->
 
 <details>
