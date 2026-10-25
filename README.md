@@ -95,7 +95,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastHardware) | [**FastHardware**](https://github.com/andrestubbe/FastHardware) | `0.1.1` | 8 | 8 | 0 | 0 | 0 | [?] |
 | [🟠](https://jitpack.io/#andrestubbe/FastEnviroment) | [**FastEnviroment**](https://github.com/andrestubbe/FastEnviroment) &#11088; | `0.1.1` | 60 | 35 | 9 | 3 | 0 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastClipboard) | [**FastClipboard**](https://github.com/andrestubbe/FastClipboard) | `0.1.0` | 39 | 26 | 6 | 1 | 0 | [?] |
-| [🟢](https://jitpack.io/#andrestubbe/FastCursor) | [**FastCursor**](https://github.com/andrestubbe/FastCursor) &#11088; | `0.1.1` | 96 | 53 | 5 | 1 | 0 | [?] |
+| [🟢](https://jitpack.io/#andrestubbe/FastCursor) | [**FastCursor**](https://github.com/andrestubbe/FastCursor) &#11088; | `0.1.2` | 96 | 53 | 5 | 1 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastNotification) | [**FastNotification**](https://github.com/andrestubbe/FastNotification) | `0.1.0` | 8 | 7 | 1 | 1 | 0 | [[1]](https://github.com) |
 | [🟠](https://jitpack.io/#andrestubbe/FastDialog) | [**FastDialog**](https://github.com/andrestubbe/FastDialog) &#11088; | - | 125 | 63 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastDaemon) | [**FastDaemon**](https://github.com/andrestubbe/FastDaemon) | `0.1.0` | 6 | 6 | 0 | 0 | 0 | [?] |
@@ -131,7 +131,7 @@
 | [🟢](https://jitpack.io/#andrestubbe/FastScreen) | [**FastScreen**](https://github.com/andrestubbe/FastScreen) | `0.1.5` | 10 | 10 | 7 | 5 | 3 | [[1]](https://github.com) |
 | [🟢](https://jitpack.io/#andrestubbe/FastScreenCapture) | [**FastScreenCapture**](https://github.com/andrestubbe/FastScreenCapture) | `0.1.1` | 7 | 7 | 2 | 1 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastCamera) | [**FastCamera**](https://github.com/andrestubbe/FastCamera) | `0.1.1` | 7 | 7 | 1 | 1 | 0 | [?] |
-| [🟠](https://jitpack.io/#andrestubbe/FastVideoStream) | [**FastVideoStream**](https://github.com/andrestubbe/FastVideoStream) | `0.1.1` | 7 | 7 | 0 | 0 | 0 | [?] |
+| [🟠](https://jitpack.io/#andrestubbe/FastVideoStream) | [**FastVideoStream**](https://github.com/andrestubbe/FastVideoStream) | `0.1.2` | 7 | 7 | 0 | 0 | 0 | [?] |
 | [🟢](https://jitpack.io/#andrestubbe/FastOCR) | [**FastOCR**](https://github.com/andrestubbe/FastOCR) | `0.1.2` | 11 | 10 | 25 | 15 | 1 | [[3]](https://Google), [[4]](https://DuckDuckGo), [[5]](https://ecosia.org) |
 | &#9203; | **FastImageSearch** | - | - | - | - | - | - | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -204,7 +204,7 @@
 | | **/ 130 (144) repos** | | **2939** | **1894** | **234** | **105** | **24** | |
 
 *Referrers: [1] [github.com](https://github.com), [2] [Bing](https://Bing), [3] [Google](https://Google), [4] [DuckDuckGo](https://DuckDuckGo), [5] [ecosia.org](https://ecosia.org), [6] [yandex.ru](https://yandex.ru)*
-<br>*(Automatisch aktualisiert: 25.10.2026, 18:58 Uhr)*
+<br>*(Automatisch aktualisiert: 25.10.2026, 22:37 Uhr)*
 <!-- STATS_END -->
 
 <details>
